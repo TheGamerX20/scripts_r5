@@ -274,18 +274,28 @@
 				///////////////////////////////////////////////////////////////////////////////////
 				enable_small_pheonix				 0 // Enables Small Pheonix 
 
-				custom_weapon_list								"mp_weapon_infinity_rifle mp_weapon_epg"
+				custom_weapon_list								"mp_weapon_warlord mp_weapon_infinity_rifle mp_weapon_epg"
 				custom_hopup_list								"hopup_cool hopup_infinity hopup_sight hopup_stock hopup_mag hopup_barrel"
 				custom_hopup_override_weapon_attachments		1
+
+				mp_weapon_warlord_tier							5
+				mp_weapon_warlord_base_mods						""
+				mp_weapon_warlord_attachments					"sight"
+				mp_weapon_warlord_pickup_sound_1p				"survival_loot_pickup_weapon_pistol"
+				mp_weapon_warlord_pickup_sound_3p				"survival_loot_pickup_3p_weapon_pistol"
+				mp_weapon_warlord_low_chance					1.0
+				mp_weapon_warlord_med_chance					3.0
+				mp_weapon_warlord_high_chance					10.0
+				mp_weapon_warlord_class							"pistol"
 
 				mp_weapon_epg_tier								2
 				mp_weapon_epg_base_mods							""
 				mp_weapon_epg_attachments						"mag sight hopup grip"
 				mp_weapon_epg_pickup_sound_1p					"survival_loot_pickup_weapon_dmr"
 				mp_weapon_epg_pickup_sound_3p					"survival_loot_pickup_3p_weapon_dmr"
-				mp_weapon_epg_low_chance						5.0
-				mp_weapon_epg_med_chance						10.0
-				mp_weapon_epg_high_chance						25.0
+				mp_weapon_epg_low_chance						1.0
+				mp_weapon_epg_med_chance						3.0
+				mp_weapon_epg_high_chance						10.0
 				mp_weapon_epg_class								"assault"
 				
 				mp_weapon_infinity_rifle_tier					5
@@ -293,9 +303,9 @@
 				mp_weapon_infinity_rifle_attachments			"barrel mag sight hopup grip"
 				mp_weapon_infinity_rifle_pickup_sound_1p		"survival_loot_pickup_weapon_rspn101"
 				mp_weapon_infinity_rifle_pickup_sound_3p		"survival_loot_pickup_3p_weapon_rspn101"
-				mp_weapon_infinity_rifle_low_chance				5.0
-				mp_weapon_infinity_rifle_med_chance				10.0
-				mp_weapon_infinity_rifle_high_chance			25.0
+				mp_weapon_infinity_rifle_low_chance				1.0
+				mp_weapon_infinity_rifle_med_chance				1.0
+				mp_weapon_infinity_rifle_high_chance			1.0
 				mp_weapon_infinity_rifle_class					"assault"
 
 
@@ -305,9 +315,9 @@
 				hopup_cool_model								"mdl/weapons_r5/loot/_master/w_loot_wep_mods_chip.rmdl"
 				hopup_cool_icon									"rui/pilot_loadout/mods/hopup_em_choke"
 				hopup_cool_slot									"hopup"
-				hopup_cool_low_chance							5.0
-				hopup_cool_med_chance							10.0
-				hopup_cool_high_chance							25.0
+				hopup_cool_low_chance							1.0
+				hopup_cool_med_chance							3.0
+				hopup_cool_high_chance							10.0
 
 				hopup_sight_name								"Infinity Sight"
 				hopup_sight_desc								"One part of many."
@@ -315,9 +325,9 @@
 				hopup_sight_model								"mdl/weapons_r5/loot/_master/w_loot_wep_mods_optic_cq_hcog_r1.rmdl"
 				hopup_sight_icon								"rui/weapon_icons/attachments/hcog"
 				hopup_sight_slot								"sight"
-				hopup_sight_low_chance							5.0
-				hopup_sight_med_chance							10.0
-				hopup_sight_high_chance							25.0
+				hopup_sight_low_chance							1.0
+				hopup_sight_med_chance							1.0
+				hopup_sight_high_chance							1.0
 				
 				hopup_mag_name									"Infinity Mag"
 				hopup_mag_desc									"One part of many."
@@ -325,9 +335,9 @@
 				hopup_mag_model									"mdl/weapons_r5/loot/_master/w_loot_wep_mods_mag_v1b.rmdl"
 				hopup_mag_icon									"rui/pilot_loadout/mods/light_mag"
 				hopup_mag_slot									"mag"
-				hopup_mag_low_chance							5.0
-				hopup_mag_med_chance							10.0
-				hopup_mag_high_chance							25.0
+				hopup_mag_low_chance							1.0
+				hopup_mag_med_chance							1.0
+				hopup_mag_high_chance							1.0
 				
 				hopup_barrel_name								"Infinity Barrel"
 				hopup_barrel_desc								"One part of many."
@@ -335,9 +345,9 @@
 				hopup_barrel_model								"mdl/weapons_r5/loot/_master/w_loot_wep_mods_suppr_v2b.rmdl"
 				hopup_barrel_icon								"rui/pilot_loadout/mods/barrel_stabilizer"
 				hopup_barrel_slot								"barrel"
-				hopup_barrel_low_chance							5.0
-				hopup_barrel_med_chance							10.0
-				hopup_barrel_high_chance						25.0
+				hopup_barrel_low_chance							1.0
+				hopup_barrel_med_chance							1.0
+				hopup_barrel_high_chance						1.0
 				
 				hopup_stock_name								"Infinity Stock"
 				hopup_stock_desc								"One part of many."
@@ -345,9 +355,9 @@
 				hopup_stock_model								"mdl/weapons_r5/loot/w_loot_wep_iso_stock_folded_regular.rmdl"
 				hopup_stock_icon								"rui/pilot_loadout/mods/tactical_stock"
 				hopup_stock_slot								"grip"
-				hopup_stock_low_chance							5.0
-				hopup_stock_med_chance							10.0
-				hopup_stock_high_chance							25.0
+				hopup_stock_low_chance							1.0
+				hopup_stock_med_chance							1.0
+				hopup_stock_high_chance							1.0
 				
 				hopup_infinity_name								"Infinity Hop-Up"
 				hopup_infinity_desc								"One part of many."
@@ -355,9 +365,9 @@
 				hopup_infinity_model							"mdl/weapons_r5/loot/_master/w_loot_wep_mods_chip.rmdl"
 				hopup_infinity_icon								"rui/pilot_loadout/mods/hopup_em_choke"
 				hopup_infinity_slot								"hopup"
-				hopup_infinity_low_chance						5.0
-				hopup_infinity_med_chance						10.0
-				hopup_infinity_high_chance						25.0
+				hopup_infinity_low_chance						1.0
+				hopup_infinity_med_chance						1.0
+				hopup_infinity_high_chance						1.0
 			}
 			maps
 			{
