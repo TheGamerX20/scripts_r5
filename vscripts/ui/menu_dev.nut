@@ -363,6 +363,8 @@ void function SetupDefaultDevCommandsMP()
 
 	SetupDevMenu( "Prototypes", SetDevMenu_Prototypes )
 
+	SetupDevCommand( "Enable Cheats", "sv_cheats 1" )
+
 	foreach ( DevCommand cmd in file.levelSpecificCommands )
 		SetupDevCommand( cmd.label, cmd.command )
 }

@@ -79,6 +79,13 @@ void function SetupWeapons()
 	SetupDevCommand( "Thermite Grenade", "give mp_weapon_thermite_grenade" )
 	SetupDevCommand( "Frag Grenade", "give mp_weapon_frag_grenade" )
 	SetupDevCommand( "Arc Star", "give mp_weapon_grenade_emp" )
+
+	array<string> customWeaponClassNames = split(GetCurrentPlaylistVarString("custom_weapon_list", ""), " ")
+	foreach (string className in customWeaponClassNames)
+	{
+		SetupDevCommand( className, "give " + className )
+	}
+
 	#endif
 }
 
