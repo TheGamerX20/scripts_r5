@@ -807,6 +807,7 @@ Scripts:
 	weapons/mp_weapon_grenade_defensive_bombardment.nut
 	weapons/mp_ability_mirage_ultimate.nut
 	weapons/mp_ability_hunt_mode.nut
+	weapons/mp_ability_shadow.nut
 	weapons/mp_ability_area_sonar_scan.nut
 	weapons/mp_weapon_grenade_gas.nut
 	weapons/mp_weapon_dirty_bomb.nut

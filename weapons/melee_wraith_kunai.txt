@@ -13,6 +13,7 @@ WeaponData
 	"hud_icon"										"rui/hud/common/melee_icon"
 
 	"weapon_type_flags"								"WPT_MELEE"
+	"melee_damage"									"90"
 
 	// Models
 	"viewmodel"   									"mdl/weapons/kunai/ptpov_kunai_wraith.rmdl"
