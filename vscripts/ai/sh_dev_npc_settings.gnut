@@ -146,6 +146,7 @@ void function SetupAbilities()
 	SetupDevCommand( "Pulse Blade", "give mp_weapon_grenade_sonar" )
 	SetupDevCommand( "Amped Wall", "give mp_weapon_deployable_cover" )
 	SetupDevCommand( "Electric Smoke", "give mp_weapon_grenade_electric_smoke" )
+	SetupDevCommand( "Titanfall Movement", "set sprintspeed 375; set sprintacceleration 1000; set jumpheight 125; set slidejumpheight 175; set wallrunMaxSpeedHorizontal 512; set wallrunMaxSpeedVertical 512; set wallrunAccelerateHorizontal 512; set wallrunAccelerateVertical 512" ) 
 	#endif
 }
 
