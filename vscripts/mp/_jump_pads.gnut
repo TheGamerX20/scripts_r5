@@ -26,6 +26,7 @@ const JUMP_PAD_DESTRUCTION = "jump_pad_destruction"
 void function JumpPad_Init()
 {
 	RegisterSignal("JumpPadStart")
+	RegisterSignal( "JumpPad_GiveDoubleJump" )
   	AddSpawnCallbackEditorClass( "prop_dynamic", "script_survival_jumppad", JumpPad_CreatedCallback )
 }
 
@@ -34,6 +35,7 @@ void function JumpPad_GiveDoubleJump( entity player )
 	Assert( player.IsPlayer() )
 
 	player.EndSignal( "OnDeath" )
+	player.EndSignal( "JumpPad_GiveDoubleJump" )
 
 	wait 0.1
 
@@ -49,8 +51,6 @@ void function JumpPad_GiveDoubleJump( entity player )
 	{
 		if ( IsValid( player ) )
 		{
-			EmitSoundOnEntity( player, "JumpPad_Ascent_Windrush" )
-
 			ItemFlavor playerCharacter = LoadoutSlot_GetItemFlavor( ToEHI( player ), Loadout_CharacterClass() )
 			asset characterSetFile = CharacterClass_GetSetFile( playerCharacter )
 
@@ -58,7 +58,7 @@ void function JumpPad_GiveDoubleJump( entity player )
 		}
 	})
 
-	while ( !player.IsOnGround() && !player.IsZiplining() )
+	while ( !player.IsOnGround() && !player.IsZiplining() && !Bleedout_IsBleedingOut( player ) )
 	{
 		WaitFrame()
 	}
@@ -151,15 +151,12 @@ void function JumpPadPushEnt( entity trigger, entity ent, vector origin, vector 
 			entity jumpPad = trigger.GetOwner()
 			if ( IsValid( jumpPad ) )
 			{
-				thread JumpPad_GiveDoubleJump( ent )
-				#if CLIENT
-				Warning("Calling from Client")
-				#endif
-				#if SERVER
-				Warning("Calling from Server")
-				#endif
-				Remote_CallFunction_Replay( ent, "ServerCallback_DisplayJumpPadHint" )
-
+				if ( !Bleedout_IsBleedingOut( ent ) )
+				{
+					thread JumpPad_GiveDoubleJump( ent )
+					Remote_CallFunction_NonReplay( ent, "ServerCallback_DisplayJumpPadHint" )
+				}
+				
 				int fxId = GetParticleSystemIndex( JUMP_PAD_LAUNCH_FX )
 				StartParticleEffectOnEntity( jumpPad, fxId, FX_PATTACH_ABSORIGIN_FOLLOW, 0 )
 			}

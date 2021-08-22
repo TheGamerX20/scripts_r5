@@ -25,7 +25,7 @@ void function DisplayJumpPadHint()
 		HidePlayerHint( "Jump to Double Jump" )
 	})
 
-	while ( !player.IsOnGround() && !player.IsZiplining() && !player.IsDoubleJumping() )
+	while ( !player.IsOnGround() && !player.IsZiplining() && !player.IsDoubleJumping() && !Bleedout_IsBleedingOut( player ) )
 	{
 		WaitFrame()
 	}
