@@ -3,13 +3,11 @@ global function ServerCallback_DisplayJumpPadHint
 
 void function ServerCallback_DisplayJumpPadHint()
 {
-	Warning("Got call1")
 	thread DisplayJumpPadHint()
 }
 
 void function DisplayJumpPadHint()
 {
-	Warning("Got call")
 	entity player = GetLocalViewPlayer()
 
 	if ( !IsValid( player ) )
@@ -20,7 +18,6 @@ void function DisplayJumpPadHint()
 
 	EndSignal( player, "OnDeath" )
 
-	print("Showing Hint")
 	AddPlayerHint( 10.0, 0.25, $"", "Jump to Double Jump" )
 
 	OnThreadEnd(function() : ()
