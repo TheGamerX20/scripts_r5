@@ -294,9 +294,6 @@ void function SURVIVAL_Loot_All_InitShared()
 
 		string supportedAttachmentsString  = GetLootTableString( data.ref, dt, i, "supportedAttachments" )
 		array<string> supportedAttachments = split( supportedAttachmentsString, " " )
-		// This version is supposed to have energy mags on these weapons.
-		// They were only removed on January 14, 2020, and this build is from October 30, 2019.
-		//if (data.ref == "mp_weapon_energy_ar" || data.ref == "mp_weapon_doubletake") supportedAttachments.append("mag")
 		supportedAttachments.sort(
 			int function( string attachmentA, string attachmentB ) : ()
 			{
@@ -526,6 +523,8 @@ void function RegisterCustomWeapons()
 		data.countPerDrop = GetCurrentPlaylistVarInt(className + "_count_per_drop", 1)
 		data.stackSize = GetCurrentPlaylistVarInt(className + "_stack_size", 2)
 		data.tier = GetCurrentPlaylistVarInt(className + "_tier", 1)
+		data.chance = GetCurrentPlaylistVarFloat(className + "_chance", 0)
+		data.carePackageChance = GetCurrentPlaylistVarFloat(className + "_cp_chance", 0)
 		RegisterCustomGrenade(data)
 	}
 }
@@ -553,8 +552,8 @@ void function RegisterCustomGrenade(CustomGrenadeData grenadeData) {
 	file.lootData[ data.ref ] <- data
 
 	#if !UI
-	AddCustomItemToLootPool( data.ref, "ordnance", 30)
-	AddCustomItemToLootPool( data.ref, "ordnance_drops", 50)
+	AddCustomItemToLootPool( data.ref, "ordnance", grenadeData.chance)
+	AddCustomItemToLootPool( data.ref, "ordnance_drops", grenadeData.carePackageChance)
 	#endif
 }
 
@@ -866,7 +865,7 @@ const vector LOOT_COLOR_HEIRLOOM = <255, 0, 0>
 vector function GetFXRarityColorForTier( int tier )
 {
 #if SERVER
-    //Warning( "Server is attempting to get a loot rarity color. This does not support accessibility features such as color blind mode." )
+    Warning( "Server is attempting to get a loot rarity color. This does not support accessibility features such as color blind mode." )
 	switch ( tier )
 	{
 		case eLootTier.NONE:
@@ -900,7 +899,7 @@ vector function GetFXRarityColorForTier( int tier )
 vector function GetFXRarityColorForUnlockable( int tier )
 {
 #if SERVER
-		Warning( "Server is attempting to get a loot rarity color. This does not support accessibility features such as color blind mode." )
+		//Warning( "Server is attempting to get a loot rarity color. This does not support accessibility features such as color blind mode." )
 		switch ( tier )
 		{
 			case eLootTier.NONE:
