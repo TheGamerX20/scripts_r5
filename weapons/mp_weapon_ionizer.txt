@@ -17,6 +17,7 @@ WeaponData
 {
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // GENERAL
+
 	"printname"   									"Ionizer"
 	"shortprintname"								"Ionizer"
 	"description" 									"#WPN_ENERGY_SHOTGUN_DESC"
@@ -29,6 +30,7 @@ WeaponData
 	"weaponClass" 									"human"
 	"leveled_pickup"								"1"
 	"ammo_pool_type"								"special"
+	"ammo_suck_behavior"							"primary_weapons"
 
 	"fire_mode"   									"automatic"
 	"is_semi_auto"									"1"
@@ -43,11 +45,13 @@ WeaponData
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // MODELS
+
 	"viewmodel"   									"mdl/weapons/peacekeeper/ptpov_peacekeeper.rmdl"
 	"playermodel" 									"mdl/weapons/peacekeeper/w_peacekeeper.rmdl"
 	"viewmodel_offset_ads"							"0 2.3 0"
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // FX
+
     "projectile_trail_effect_0"                     "P_bhaxe_impact_base"
     "projectile_trail_effect_1"                     "P_tracer_proj_sniper_piercer"
     "projectile_adjust_to_gun_barrel"				"1"
@@ -85,15 +89,47 @@ WeaponData
 	"OnWeaponChargeEnd"					            "OnWeaponChargeEnd_weapon_energy_shotgun"
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // STATS
+
  //Damage
-    "damage_near_value"   							"23"
-    "damage_far_value"							    "23"
-    "damage_very_far_value"                         "23"
+    "damage_near_value"   							"24"
+    "damage_far_value"							    "24"
+    "damage_very_far_value"                         "24"
  // Damage Distance
     "damage_near_distance"							"3"
     "damage_far_distance" 							"5"
+ // others
+	"fire_rate"   									"3.0"
+	"rechamber_time"  								"0.924"
+	"reloadempty_time"								"4.2"
+	"reloadempty_time_late1"						"3.8"
+	"reloadempty_time_late2"						"3.0"
+	"reloadempty_time_late3"						"2.9"
+	"deployfirst_time"								"1.4"
+	"headshot_distance" 							"21828"  // 600m
+	"sprint_fractional_anims"						"0"
+ // AMMO
+
+    "ammo_default_total"							"15"
+    "ammo_stockpile_max"							"100"
+    "ammo_no_remove_from_stockpile"					"1"
+    "ammo_min_to_fire"								"40"
+    "ammo_clip_size"   								"40"
+    "ammo_per_shot"                                 "40"
+ // CLIP
+    "clip_bodygroup"						        "peacekeeper_magazine"
+    "clip_bodygroup_index_shown"			        "0"
+    "clip_bodygroup_index_hidden"			        "1"
+    "clip_bodygroup_show_for_milestone_0"	        "1"
+    "clip_bodygroup_show_for_milestone_1"	        "0"
+    "clip_bodygroup_show_for_milestone_2"	        "1"
+    "clip_bodygroup_show_for_milestone_3"	        "1"
+    
+    // Custom int for hopup rui optic selection
+    "custom_int_0"						        	"0"
+
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // PROJECTILE & CHOKE
+
  // projectile settings
     "impulse_force"   								"3000" 
     "dof_zoom_focusArea_horizontal"					"0.036"
@@ -111,7 +147,7 @@ WeaponData
 
 
  // choke stats
-    "charge_time" 									"1"
+    "charge_time" 									"1.2"
 	"charge_levels"									"4"
 	"charge_level_base"								"1"
 	"charge_cooldown_time"							"0.8"
@@ -123,17 +159,22 @@ WeaponData
 	"charge_effect_1p"								"P_Kunai_impact_base"
 	"charge_effect_3p"								"P_Kunai_impact_base"
 	"charge_effect_attachment"						"muzzle_flash"
+ // Choke Spread levels
+	"projectile_spread_choke_frac_1" 				"1.0" // no levels
+	"projectile_spread_choke_frac_2" 				"0.5"
+	"projectile_spread_choke_frac_3" 				"0.35"
+	"projectile_spread_choke_frac_4" 				"0."
 
  // Pattern
 	"blast_pattern"									"energy_shotgun"
-	"blast_pattern_zero_distance"        			"512.0"
+	"blast_pattern_zero_distance"        			"712.0"
 	"blast_pattern_default_scale"        			"1.5"
 	"blast_pattern_npc_scale"            			"1.8"  // scales on top of the default
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 // SOUND
 
-    "sound_dryfire"								   "LSTAR_LensBurnout"
+    "sound_dryfire"								   "lstar_lowammowarning"
 	"sound_pickup"								   "wpn_pickup_Rifle_1P"
 	"fire_sound_1_player_1p"                       "Weapon_DoubleTake_Fire_1P"
 	"fire_sound_2_player_1p"                       "large_shell_drop"
@@ -165,16 +206,8 @@ WeaponData
 	"vortex_absorb_sound_1p_vs_3p"					"Vortex_Shield_AbsorbBulletLarge_1P_VS_3P"
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
-// AMMO
-    "ammo_default_total"							"15"
-    "ammo_stockpile_max"							"15"
-    "ammo_no_remove_from_stockpile"					"1"
-    "ammo_min_to_fire"								"1"
-    "ammo_clip_size"   								"1"
-    "ammo_per_shot"                                 "1"
-
-////////////////////////////////////////////////////////////////////////////////////////////////
 // NPC STATS
+
 	"proficiency_poor_spreadscale"					"7.0"
 	"proficiency_average_spreadscale" 				"5.0"
 	"proficiency_good_spreadscale"					"4.5"
@@ -197,22 +230,8 @@ WeaponData
 	"npc_rest_time_between_bursts_min"				"2.0"
 	"npc_rest_time_between_bursts_max"				"2.2"
 
- // Behavior
-	"fire_rate"   									"3.0"
-	"rechamber_time"  								"0.924"
-
-	"reloadempty_time"								"4.2"
-	"reloadempty_time_late1"						"3.8"
-	"reloadempty_time_late2"						"3.0"
-	"reloadempty_time_late3"						"2.9"
-
-	"deployfirst_time"								"1.4"
-
-	"headshot_distance" 							"11828"  // 300m
-
-	"sprint_fractional_anims"						"0"
-
-	"ammo_suck_behavior"							"primary_weapons"
+////////////////////////////////////////////////////////////////////////////////////////////////
+// Recoil Patterns & Spread
 
  // View Kick
 	"viewkick_spring" 								"energy_shotgun"
@@ -251,11 +270,7 @@ WeaponData
 
  // Crosshair Spread
 
-	// CUSTOM- choke spread fractions for each charge level
-	"projectile_spread_choke_frac_1" 				"1.0"
-	"projectile_spread_choke_frac_2" 				"0.5"
-	"projectile_spread_choke_frac_3" 				"0.35"
-	"projectile_spread_choke_frac_4" 				"0.15"
+
 
     // for projectile shotguns, set this to the size of the spread pattern at the intended engagement range
 	"spread_stand_hip"								"2.8"
@@ -288,31 +303,10 @@ WeaponData
 	"spread_max_kick_stand_ads"   					"0.0"
 	"spread_max_kick_crouch_ads"  					"0.0"
 	"spread_max_kick_air_ads" 						"0.0"
-////////////////////////////////////////////////////////////////////////////////////////////////
-// AMMO
-    "clip_bodygroup"						"peacekeeper_magazine"
-    "clip_bodygroup_index_shown"			"0"
-    "clip_bodygroup_index_hidden"			"1"
-    "clip_bodygroup_show_for_milestone_0"	"1"
-    "clip_bodygroup_show_for_milestone_1"	"0"
-    "clip_bodygroup_show_for_milestone_2"	"1"
-    "clip_bodygroup_show_for_milestone_3"	"1"
 
-    // Custom int for hopup rui optic selection
-	"custom_int_0"							"0"
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
-// UI
-    "rui_crosshair_index"							"1"
-	"ui20_enable"									"1"
-	"ui21_enable"									"1"
-	"ui22_enable"									"1"
-	"ui23_enable"									"1"
-	"ui24_enable"									"1"
-	"ui25_enable"									"1"
-	"ui26_enable"									"1"
-    "ui27_enable"									"1"
-
+// MODS
 	Mods
 	{
         crate
@@ -322,8 +316,8 @@ WeaponData
 
 		survival_finite_ammo
         {
-            "ammo_default_total"							"15"
-            "ammo_stockpile_max"							"15"
+            "ammo_default_total"							"30"
+            "ammo_stockpile_max"							"100"
             "ammo_no_remove_from_stockpile"					"0"
 
             "low_ammo_fraction" 							"0.3"
@@ -384,7 +378,21 @@ WeaponData
 
 
 	}
+////////////////////////////////////////////////////////////////////////////////////////////////
+// UI
+ //ui enables
+    "rui_crosshair_index"							"1"
+    "ui20_enable"									"1"
+    "ui21_enable"									"1"
+    "ui22_enable"									"1"
+    "ui23_enable"									"1"
+    "ui24_enable"									"1"
+    "ui25_enable"									"1"
+    "ui26_enable"									"1"
+    "ui27_enable"									"1"
 
+
+ //ui configs
 	// peacekeeper_rui_upper is the crosshair with ammo counter
 	"ui1_enable"		"1"
 	UiData1
