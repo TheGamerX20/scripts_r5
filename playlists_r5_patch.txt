@@ -274,19 +274,19 @@
 				///////////////////////////////////////////////////////////////////////////////////
 				enable_small_pheonix				 0 // Enables Small Pheonix 
 
-				custom_weapon_list								"mp_weapon_warlord mp_weapon_infinity_rifle mp_weapon_epg mp_weapon_sniperV2 mp_weapon_ionizer"
+				custom_weapon_list								"mp_weapon_thermallmg mp_weapon_warlord mp_weapon_infinity_rifle mp_weapon_epg mp_weapon_sniperV2 mp_weapon_ionizer"
 				custom_hopup_list								"hopup_cool hopup_infinity hopup_sight hopup_stock hopup_mag hopup_barrel"
 				custom_hopup_override_weapon_attachments		1
 
-				mp_weapon_sniperV2_tier							5
-				mp_weapon_sniperV2_base_mods					""
-				mp_weapon_sniperV2_attachments					""
-				mp_weapon_sniperV2_pickup_sound_1p				"survival_loot_pickup_weapon_dmr"
-				mp_weapon_sniperV2_pickup_sound_3p				"survival_loot_pickup_3p_weapon_dmr"
-				mp_weapon_sniperV2_low_chance					0.0
-				mp_weapon_sniperV2_med_chance					0.0
-				mp_weapon_sniperV2_high_chance					0.0
-				mp_weapon_sniperV2_class						"sniper"
+				mp_weapon_thermallmg_tier							5
+				mp_weapon_thermallmg_base_mods						""
+				mp_weapon_thermallmg_attachments					"sight"
+				mp_weapon_thermallmg_pickup_sound_1p				"survival_loot_pickup_weapon_rspn101"
+				mp_weapon_thermallmg_pickup_sound_3p				"survival_loot_pickup_3p_weapon_rspn101"
+				mp_weapon_thermallmg_low_chance					1.0
+				mp_weapon_thermallmg_med_chance					3.0
+				mp_weapon_thermallmg_high_chance					10.0
+				mp_weapon_thermallmg_class							"assault"
 
 				mp_weapon_warlord_tier							5
 				mp_weapon_warlord_base_mods						""
@@ -297,6 +297,16 @@
 				mp_weapon_warlord_med_chance					3.0
 				mp_weapon_warlord_high_chance					10.0
 				mp_weapon_warlord_class							"pistol"
+
+				mp_weapon_sniperV2_tier							5
+				mp_weapon_sniperV2_base_mods					""
+				mp_weapon_sniperV2_attachments					""
+				mp_weapon_sniperV2_pickup_sound_1p				"survival_loot_pickup_weapon_dmr"
+				mp_weapon_sniperV2_pickup_sound_3p				"survival_loot_pickup_3p_weapon_dmr"
+				mp_weapon_sniperV2_low_chance					0.0
+				mp_weapon_sniperV2_med_chance					0.0
+				mp_weapon_sniperV2_high_chance					0.0
+				mp_weapon_sniperV2_class						"sniper"
 
 				mp_weapon_ionizer_low_chance                0
 				mp_weapon_ionizer_med_chance                1.0 
