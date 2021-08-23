@@ -263,7 +263,7 @@
 				///////				              Dev Playlist Vars                         ///////
 				///////////////////////////////////////////////////////////////////////////////////
 				gamemode_select_v2_enable            1 // Enable gamemode select version 2 over 1
-				beta_watermark                       1 // Enable Beta Watermark
+				beta_watermark                       0 // Enable Beta Watermark
 				survival_quick_chat_enabled          1 // Quips
 				desertlands_script_train_enable		 1 // World's Edge Train
 				thirdperson_match					 0 // Third Person Mode
