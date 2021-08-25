@@ -234,6 +234,11 @@ void function ShLoadouts_LevelInit_Begin()
 		AddCallback_UpgradePlayerPersistentData( UpgradePlayerPersistentData )
 		AddClientCommandCallback( "loadouts_set", ClientCommand_loadouts_set )
 		AddClientCommandCallback( "loadouts_reset_persistent", ClientCommand_loadouts_reset_persistent )
+		AddClientCommandCallback( "tgx_changecharacterskin", ClientCommand_tgx_changecharacterskin )
+		AddClientCommandCallback( "tgx_changecharactermeleeskin", ClientCommand_tgx_changecharactermeleeskin )
+		AddClientCommandCallback( "tgx_changeweaponskin", ClientCommand_tgx_changeweaponskin )
+		AddClientCommandCallback( "tgx_getpersistentvar", ClientCommand_tgx_getpersistentvar )
+		AddClientCommandCallback( "tgx_setpersistentvar", ClientCommand_tgx_setpersistentvar )
 		#if R5DEV
 			AddCallback_GeneratePDef( GenerateLoadoutsPDef )
 			AddClientCommandCallback( "loadouts_devset", ClientCommand_loadouts_devset )
@@ -2076,6 +2081,175 @@ bool function ClientCommand_loadouts_devset( entity commandPlayer, array<string>
 		}
 
 		//Newness_MarkItemFlavorsAsNewForPlayer( player, flavorListForTestingNewness, true )
+	}
+
+	return true
+}
+#endif
+
+#if SERVER
+bool function ClientCommand_tgx_changecharacterskin( entity commandPlayer, array<string> args )
+{
+	// We need 2 Arguments
+	if (args.len() < 2)
+	{
+		Warning("Please Enter the Correct Arguments, Usage: tgx_changecharacterskin <(STRING) character guid string> <(INT) skin guid>")
+		return false
+	}
+
+	try
+	{
+		// Make sure Character GUID String is correct
+		string characterGUIDString = args[0]
+		ItemFlavor characterFlavor = GetItemFlavorByGUID(ConvertItemFlavorGUIDStringToGUID(characterGUIDString))
+
+		// Make sure Skin GUID is correct
+		int skinGUID = int(args[1])
+		ItemFlavor skinFlavor = GetItemFlavorByGUID(skinGUID)
+
+		// Set the Loadout Skin
+		commandPlayer.SetPersistentVar( "character_loadouts[" + characterGUIDString + "].skin", skinGUID)
+
+		// Are we currently that character?
+		ItemFlavor playerCharacter = LoadoutSlot_GetItemFlavor( ToEHI( commandPlayer ), Loadout_CharacterClass() )
+		if (ItemFlavor_GetGUIDString(playerCharacter) == characterGUIDString)
+		{
+			CharacterSkin_Apply( commandPlayer, skinFlavor )
+		}
+	}
+	catch(error){
+		Warning("An Error Occured, Please check your Arguments!")
+		return false
+	}
+	
+	return true
+}
+
+bool function ClientCommand_tgx_changecharactermeleeskin( entity commandPlayer, array<string> args )
+{
+	// We need 2 Arguments
+	if (args.len() < 2)
+	{
+		Warning("Please Enter the Correct Arguments, Usage: tgx_changecharactermeleeskin <(STRING) character guid string> <(INT) meleeskin guid>")
+		return false
+	}
+
+	try
+	{
+		// Make sure Character GUID String is correct
+		string characterGUIDString = args[0]
+		ItemFlavor characterFlavor = GetItemFlavorByGUID(ConvertItemFlavorGUIDStringToGUID(characterGUIDString))
+
+		// Make sure the Meelee Skin GUID is correct
+		int meleeskinGUID = int(args[1])
+		ItemFlavor meleeskinFlavor = GetItemFlavorByGUID(meleeskinGUID)
+
+		// Set the Loadout Skin
+		commandPlayer.SetPersistentVar( "character_loadouts[" + characterGUIDString + "].meleeskin", meleeskinGUID)
+
+		// Are we currently that character?
+		ItemFlavor playerCharacter = LoadoutSlot_GetItemFlavor( ToEHI( commandPlayer ), Loadout_CharacterClass() )
+		if (ItemFlavor_GetGUIDString(playerCharacter) == characterGUIDString)
+		{
+			// Give the Heirloom
+			commandPlayer.TakeNormalWeaponByIndexNow( WEAPON_INVENTORY_SLOT_PRIMARY_2 )
+			commandPlayer.TakeOffhandWeapon( OFFHAND_MELEE )
+			
+			commandPlayer.GiveWeapon( MeleeSkin_GetMainWeaponClassname( meleeskinFlavor ), WEAPON_INVENTORY_SLOT_PRIMARY_2, [] )
+			commandPlayer.GiveOffhandWeapon( MeleeSkin_GetOffhandWeaponClassname( meleeskinFlavor ), OFFHAND_MELEE, [] )
+		}
+		else
+		{
+			Warning("Please note that if the Heirloom is not made for that specific character then you won't get it unless you are playing as them currently.")
+			Warning("For Example, to get Bloodhound's Heirloom on Wraith, you must be Wraith, switching characters won't work unless if it is the character specific heirloom.")
+		}
+	}
+	catch(error){
+		Warning("An Error Occured, Please check your Arguments!")
+		return false
+	}
+
+	return true
+}
+
+bool function ClientCommand_tgx_changeweaponskin( entity commandPlayer, array<string> args )
+{
+	/*// We need 2 Arguments
+	if (args.len() < 2)
+	{
+		Warning("Please Enter the Correct Arguments, Usage: tgx_changeweaponskin <(STRING) weapon guid string> <(INT) weaponskin guid>")
+		return false
+	}
+
+	try
+	{
+		// Make sure Weapon GUID String is correct
+		string weaponGUIDString = args[0]
+		ItemFlavor weaponFlavor = GetItemFlavorByGUID(ConvertItemFlavorGUIDStringToGUID(weaponGUIDString))
+
+		// Make sure the Meelee Skin GUID is correct
+		int weaponskinGUID = int(args[1])
+		ItemFlavor weaponskinFlavor = GetItemFlavorByGUID(weaponskinGUID)
+
+		// Set the Loadout Skin
+		Warning("Setting")
+		commandPlayer.SetPersistentVar( "loadouts.weapon_skin_for_" + weaponGUIDString, weaponskinGUID)
+		Warning("Set")
+
+		entity weaponInSlot0 = commandPlayer.GetNormalWeapon( WEAPON_INVENTORY_SLOT_PRIMARY_0 )
+		//WeaponSkin_Apply( weaponInSlot0, weaponskinFlavor )
+		//WeaponCosmetics_Apply( weaponInSlot0, weaponskinFlavor, null )
+		#if SERVER
+		UpdatePlayerWeaponCosmetics(commandPlayer, weaponFlavor, weaponskinFlavor)
+		#endif
+	}
+	catch(error){
+		Warning("An Error Occured, Please check your Arguments!")
+		return false
+	}*/
+
+	return true
+}
+
+bool function ClientCommand_tgx_getpersistentvar( entity commandPlayer, array<string> args )
+{
+	// We need 1 Argument
+	if (args.len() < 1)
+	{
+		Warning("Please Enter the Correct Arguments, Usage: tgx_getpersistantvar <(STRING) variable string>")
+		return false
+	}
+
+	try
+	{
+		Warning( args[0] )
+		Warning( "TGX OUTPUT: " + commandPlayer.GetPersistentVar( args[0] ) )
+	}
+	catch(error){
+		Warning("An Error Occured, Please check your Arguments!")
+		return false
+	}
+
+	return true
+}
+
+bool function ClientCommand_tgx_setpersistentvar( entity commandPlayer, array<string> args )
+{
+	// We need 2 Argument
+	if (args.len() < 2)
+	{
+		Warning("Please Enter the Correct Arguments, Usage: tgx_setpersistantvar <(STRING) variable string> <value>")
+		return false
+	}
+
+	try
+	{
+		Warning( args[0] + " = " + args[1] )
+		commandPlayer.SetPersistentVar( args[0], int(args[1]) )
+	}
+	catch(error){
+		Warning("An Error Occured, Please check your Arguments!")
+		return false
 	}
 
 	return true

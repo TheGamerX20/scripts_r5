@@ -38,6 +38,16 @@ void function ClJumpPad_Init()
 
 void function OnJumpPadCreated( entity trigger )
 {
+	/*array<ItemFlavor> test = GetAllItemFlavorsOfType(eItemType.loot_main_weapon)
+	foreach( ItemFlavor t in test )
+	{
+		printt( "Human Readable: " + ItemFlavor_GetHumanReadableRef( t ) )
+		printt("Long Name: " + ItemFlavor_GetLongName(t))
+		printt("GUID: " + ItemFlavor_GetGUID( t ))
+		printt("GUIDString: " + ItemFlavor_GetGUIDString( t ))
+		printt("- - - - - - - - - - - - ")
+	}*/
+
 	if ( trigger.GetTriggerType() != TT_JUMP_PAD )
 		return
 
