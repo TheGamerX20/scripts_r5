@@ -1,5 +1,3 @@
-#if(true)//
-
 global function MeleeBloodhoundAxe_Init
 
 global function OnWeaponActivate_melee_bloodhound_axe
@@ -28,5 +26,3 @@ void function OnWeaponDeactivate_melee_bloodhound_axe( entity weapon )
 	weapon.StopWeaponEffect( AXE_FX_ATTACK_SWIPE_FP, AXE_FX_ATTACK_SWIPE_3P )
 
 }
-
-#endif //

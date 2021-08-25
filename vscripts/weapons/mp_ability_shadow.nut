@@ -106,11 +106,16 @@ void function HuntMode_Start( entity player )
 	//EmitSoundOnEntityOnlyToPlayer( player, player, "beastofthehunt_activate_1P" )
 	EmitSoundOnEntityExceptToPlayer( player, player, "beastofthehunt_activate_3P" )
 
+	array<string> mp_weapon_list = ["mp_weapon_wraith_kunai_primary", "mp_weapon_shadow_squad_hands_primary", "mp_weapon_bloodhound_axe_primary", "mp_weapon_lifeline_baton_primary"]
+	array<string> melee_list = ["melee_wraith_kunai", "melee_shadowsquad_hands", "melee_bloodhound_axe", "melee_lifeline_baton"]
+
+	int random_melee = RandomInt(mp_weapon_list.len())
+
 	player.TakeNormalWeaponByIndexNow( WEAPON_INVENTORY_SLOT_PRIMARY_2 )
 	player.TakeOffhandWeapon( OFFHAND_MELEE )
 	
-	player.GiveWeapon( "mp_weapon_wraith_kunai_primary", WEAPON_INVENTORY_SLOT_PRIMARY_2, [] )
-	player.GiveOffhandWeapon( "melee_wraith_kunai", OFFHAND_MELEE, [] )
+	player.GiveWeapon( mp_weapon_list[random_melee], WEAPON_INVENTORY_SLOT_PRIMARY_2, [] )
+	player.GiveOffhandWeapon( melee_list[random_melee], OFFHAND_MELEE, [] )
 
 	ItemFlavor playerCharacter = LoadoutSlot_GetItemFlavor( ToEHI( player ), Loadout_CharacterClass() )
 	asset characterSetFile = CharacterClass_GetSetFile( playerCharacter )
