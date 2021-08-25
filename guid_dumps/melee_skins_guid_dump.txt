@@ -1,0 +1,39 @@
+[07.762] Script(C):Human Readable: melee_skin_default
+
+[07.763] Script(C):Long Name: #melee_skin_default_NAME
+
+[07.763] Script(C):GUID: 519356259
+
+[07.763] Script(C):GUIDString: SAID00519356259
+
+[07.764] Script(C):- - - - - - - - - - - - 
+
+[07.764] Script(C):Human Readable: melee_skin_bloodhound_axe
+
+[07.764] Script(C):Long Name: #MELEE_SKIN_BLOODHOUND_AXE_NAME
+
+[07.764] Script(C):GUID: 1195204293
+
+[07.764] Script(C):GUIDString: SAID01195204293
+
+[07.765] Script(C):- - - - - - - - - - - - 
+
+[07.765] Script(C):Human Readable: melee_skin_lifeline_baton
+
+[07.765] Script(C):Long Name: #MELEE_SKIN_LIFELINE_BATON_NAME
+
+[07.765] Script(C):GUID: 1604275697
+
+[07.765] Script(C):GUIDString: SAID01604275697
+
+[07.765] Script(C):- - - - - - - - - - - - 
+
+[07.765] Script(C):Human Readable: melee_skin_kunai
+
+[07.765] Script(C):Long Name: #melee_skin_kunai_NAME
+
+[07.766] Script(C):GUID: 1699246881
+
+[07.766] Script(C):GUIDString: SAID01699246881
+
+[07.766] Script(C):- - - - - - - - - - - - 

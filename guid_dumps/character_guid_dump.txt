@@ -1,0 +1,109 @@
+[44.041] Script(C):Human Readable: character_bangalore
+
+[44.041] Script(C):Long Name: #character_bangalore_NAME
+
+[44.042] Script(C):GUID: 725342087
+
+[44.042] Script(C):GUIDString: SAID00725342087
+
+[44.043] Script(C):- - - - - - - - - - - - 
+
+[44.043] Script(C):Human Readable: character_bloodhound
+
+[44.043] Script(C):Long Name: #character_bloodhound_NAME
+
+[44.043] Script(C):GUID: 898565421
+
+[44.043] Script(C):GUIDString: SAID00898565421
+
+[44.044] Script(C):- - - - - - - - - - - - 
+
+[44.044] Script(C):Human Readable: character_caustic
+
+[44.044] Script(C):Long Name: #character_caustic_NAME
+
+[44.044] Script(C):GUID: 1111853120
+
+[44.045] Script(C):GUIDString: SAID01111853120
+
+[44.045] Script(C):- - - - - - - - - - - - 
+
+[44.045] Script(C):Human Readable: character_gibraltar
+
+[44.046] Script(C):Long Name: #character_gibraltar_NAME
+
+[44.046] Script(C):GUID: 182221730
+
+[44.046] Script(C):GUIDString: SAID00182221730
+
+[44.046] Script(C):- - - - - - - - - - - - 
+
+[44.047] Script(C):Human Readable: character_lifeline
+
+[44.047] Script(C):Long Name: #character_lifeline_NAME
+
+[44.047] Script(C):GUID: 1409694078
+
+[44.048] Script(C):GUIDString: SAID01409694078
+
+[44.048] Script(C):- - - - - - - - - - - - 
+
+[44.048] Script(C):Human Readable: character_mirage
+
+[44.048] Script(C):Long Name: #character_mirage_NAME
+
+[44.049] Script(C):GUID: 2045656322
+
+[44.049] Script(C):GUIDString: SAID02045656322
+
+[44.049] Script(C):- - - - - - - - - - - - 
+
+[44.049] Script(C):Human Readable: character_octane
+
+[44.050] Script(C):Long Name: #character_octane_NAME
+
+[44.050] Script(C):GUID: 843405508
+
+[44.050] Script(C):GUIDString: SAID00843405508
+
+[44.051] Script(C):- - - - - - - - - - - - 
+
+[44.051] Script(C):Human Readable: character_pathfinder
+
+[44.051] Script(C):Long Name: #character_pathfinder_NAME
+
+[44.052] Script(C):GUID: 1464849662
+
+[44.052] Script(C):GUIDString: SAID01464849662
+
+[44.052] Script(C):- - - - - - - - - - - - 
+
+[44.052] Script(C):Human Readable: character_wraith
+
+[44.053] Script(C):Long Name: #character_wraith_NAME
+
+[44.053] Script(C):GUID: 827049897
+
+[44.054] Script(C):GUIDString: SAID00827049897
+
+[44.054] Script(C):- - - - - - - - - - - - 
+
+[44.054] Script(C):Human Readable: character_wattson
+
+[44.055] Script(C):Long Name: #character_wattson_NAME
+
+[44.055] Script(C):GUID: 187386164
+
+[44.055] Script(C):GUIDString: SAID00187386164
+
+[44.055] Script(C):- - - - - - - - - - - - 
+
+[44.056] Script(C):Human Readable: character_crypto
+
+[44.056] Script(C):Long Name: #character_crypto_NAME
+
+[44.056] Script(C):GUID: 80232848
+
+[44.056] Script(C):GUIDString: SAID00080232848
+
+[44.057] Script(C):- - - - - - - - - - - - 

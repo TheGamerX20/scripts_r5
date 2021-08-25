@@ -1,0 +1,220 @@
+[44.027] Script(C):Human Readable: loot_main_weapon_alternator
+
+[44.027] Script(C):Long Name: #WPN_ALTERNATOR_SMG
+
+[44.028] Script(C):GUID: 1475792313
+
+[44.028] Script(C):GUIDString: SAID01475792313
+
+[44.028] Script(C):- - - - - - - - - - - - 
+
+[44.028] Script(C):Human Readable: loot_main_weapon_autopistol
+
+[44.029] Script(C):Long Name: #WPN_RE45_AUTOPISTOL
+
+[44.029] Script(C):GUID: 686444189
+
+[44.029] Script(C):GUIDString: SAID00686444189
+
+[44.030] Script(C):- - - - - - - - - - - - 
+
+[44.030] Script(C):Human Readable: loot_main_weapon_devotion
+
+[44.030] Script(C):Long Name: #WPN_ESAW
+
+[44.030] Script(C):GUID: 352110003
+
+[44.031] Script(C):GUIDString: SAID00352110003
+
+[44.031] Script(C):- - - - - - - - - - - - 
+
+[44.031] Script(C):Human Readable: loot_main_weapon_dmr
+
+[44.031] Script(C):Long Name: #WPN_DMR
+
+[44.032] Script(C):GUID: 908539842
+
+[44.032] Script(C):GUIDString: SAID00908539842
+
+[44.032] Script(C):- - - - - - - - - - - - 
+
+[44.032] Script(C):Human Readable: loot_main_weapon_eva
+
+[44.033] Script(C):Long Name: #WPN_SHOTGUN
+
+[44.033] Script(C):GUID: 1928357643
+
+[44.033] Script(C):GUIDString: SAID01928357643
+
+[44.033] Script(C):- - - - - - - - - - - - 
+
+[44.034] Script(C):Human Readable: loot_main_weapon_flatline
+
+[44.034] Script(C):Long Name: #WPN_VINSON
+
+[44.034] Script(C):GUID: 1870377113
+
+[44.035] Script(C):GUIDString: SAID01870377113
+
+[44.035] Script(C):- - - - - - - - - - - - 
+
+[44.035] Script(C):Human Readable: loot_main_weapon_g7
+
+[44.035] Script(C):Long Name: #WPN_G2
+
+[44.036] Script(C):GUID: 909655776
+
+[44.036] Script(C):GUIDString: SAID00909655776
+
+[44.036] Script(C):- - - - - - - - - - - - 
+
+[44.036] Script(C):Human Readable: loot_main_weapon_hemlok
+
+[44.037] Script(C):Long Name: #WPN_HEMLOK
+
+[44.037] Script(C):GUID: 1082669812
+
+[44.037] Script(C):GUIDString: SAID01082669812
+
+[44.037] Script(C):- - - - - - - - - - - - 
+
+[44.037] Script(C):Human Readable: loot_main_weapon_kraber
+
+[44.038] Script(C):Long Name: #WPN_SNIPER
+
+[44.038] Script(C):GUID: 1920744447
+
+[44.038] Script(C):GUIDString: SAID01920744447
+
+[44.038] Script(C):- - - - - - - - - - - - 
+
+[44.038] Script(C):Human Readable: loot_main_weapon_mastiff
+
+[44.038] Script(C):Long Name: #WPN_MASTIFF
+
+[44.038] Script(C):GUID: 418361060
+
+[44.038] Script(C):GUIDString: SAID00418361060
+
+[44.039] Script(C):- - - - - - - - - - - - 
+
+[44.039] Script(C):Human Readable: loot_main_weapon_mozambique
+
+[44.039] Script(C):Long Name: #WPN_SHOTGUN_PISTOL
+
+[44.039] Script(C):GUID: 945439943
+
+[44.039] Script(C):GUIDString: SAID00945439943
+
+[44.039] Script(C):- - - - - - - - - - - - 
+
+[44.039] Script(C):Human Readable: loot_main_weapon_pdw
+
+[44.039] Script(C):Long Name: #WPN_PDW
+
+[44.040] Script(C):GUID: 1496005473
+
+[44.040] Script(C):GUIDString: SAID01496005473
+
+[44.040] Script(C):- - - - - - - - - - - - 
+
+[44.040] Script(C):Human Readable: loot_main_weapon_peacekeeper
+
+[44.040] Script(C):Long Name: #WPN_ENERGY_SHOTGUN
+
+[44.040] Script(C):GUID: 1388774763
+
+[44.041] Script(C):GUIDString: SAID01388774763
+
+[44.041] Script(C):- - - - - - - - - - - - 
+
+[44.041] Script(C):Human Readable: loot_main_weapon_r97
+
+[44.041] Script(C):Long Name: #WPN_R97
+
+[44.041] Script(C):GUID: 80404303
+
+[44.041] Script(C):GUIDString: SAID00080404303
+
+[44.041] Script(C):- - - - - - - - - - - - 
+
+[44.041] Script(C):Human Readable: loot_main_weapon_r301
+
+[44.042] Script(C):Long Name: #WPN_RSPN101
+
+[44.042] Script(C):GUID: 48783537
+
+[44.042] Script(C):GUIDString: SAID00048783537
+
+[44.042] Script(C):- - - - - - - - - - - - 
+
+[44.042] Script(C):Human Readable: loot_main_weapon_semipistol
+
+[44.042] Script(C):Long Name: #WPN_P2011
+
+[44.042] Script(C):GUID: 970511567
+
+[44.043] Script(C):GUIDString: SAID00970511567
+
+[44.043] Script(C):- - - - - - - - - - - - 
+
+[44.043] Script(C):Human Readable: loot_main_weapon_spitfire
+
+[44.043] Script(C):Long Name: #WPN_LMG
+
+[44.043] Script(C):GUID: 1363034817
+
+[44.044] Script(C):GUIDString: SAID01363034817
+
+[44.044] Script(C):- - - - - - - - - - - - 
+
+[44.045] Script(C):Human Readable: loot_main_weapon_tripletake
+
+[44.045] Script(C):Long Name: #WPN_DOUBLETAKE
+
+[44.045] Script(C):GUID: 1603172346
+
+[44.045] Script(C):GUIDString: SAID01603172346
+
+[44.045] Script(C):- - - - - - - - - - - - 
+
+[44.045] Script(C):Human Readable: loot_main_weapon_wingman
+
+[44.045] Script(C):Long Name: #WPN_WINGMAN
+
+[44.045] Script(C):GUID: 2091853053
+
+[44.046] Script(C):GUIDString: SAID02091853053
+
+[44.046] Script(C):- - - - - - - - - - - - 
+
+[44.046] Script(C):Human Readable: loot_main_weapon_energy_ar
+
+[44.046] Script(C):Long Name: #WPN_ENERGY_AR
+
+[44.046] Script(C):GUID: 1820095990
+
+[44.046] Script(C):GUIDString: SAID01820095990
+
+[44.047] Script(C):- - - - - - - - - - - - 
+
+[44.047] Script(C):Human Readable: loot_main_weapon_lstar
+
+[44.047] Script(C):Long Name: #WPN_LSTAR
+
+[44.047] Script(C):GUID: 194888968
+
+[44.047] Script(C):GUIDString: SAID00194888968
+
+[44.047] Script(C):- - - - - - - - - - - - 
+
+[44.047] Script(C):Human Readable: loot_main_weapon_chargerifle
+
+[44.048] Script(C):Long Name: #WPN_CHARGE_RIFLE
+
+[44.048] Script(C):GUID: 107352658
+
+[44.048] Script(C):GUIDString: SAID00107352658
+
+[44.048] Script(C):- - - - - - - - - - - - 
+

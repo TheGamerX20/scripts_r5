@@ -1,0 +1,868 @@
+[32.936] Script(S):-- loadouts dump for entity (1: player tmosafari [1])
+
+[32.936] Script(S):-- DEV NAME: ?                                   ENTRY ID: character_selection                      DESCRIBE LOADOUT: ~~character:character_mirage:SAID02045656322~~                
+
+[32.936] Script(S):-- DEV NAME: character_bangalore Skin            ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_bangalore_classic:SAID01694869144~~
+
+[32.937] Script(S):-- DEV NAME: character_bangalore Execution       ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_bangalore_default:SAID00336907386~~
+
+[32.937] Script(S):-- DEV NAME: character_bangalore Intro Quip      ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.937] Script(S):-- DEV NAME: character_bangalore Kill Quip       ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.937] Script(S):-- DEV NAME: character_bangalore Quip 0          ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.938] Script(S):-- DEV NAME: character_bangalore Quip 1          ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.938] Script(S):-- DEV NAME: character_bangalore Quip 2          ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.938] Script(S):-- DEV NAME: character_bangalore Quip 3          ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.938] Script(S):-- DEV NAME: character_bangalore Quip 4          ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.939] Script(S):-- DEV NAME: character_bangalore Quip 5          ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.939] Script(S):-- DEV NAME: character_bangalore Quip 6          ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.939] Script(S):-- DEV NAME: character_bangalore Quip 7          ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.939] Script(S):-- DEV NAME: character_bangalore Skydive Emote 0 ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.940] Script(S):-- DEV NAME: character_bangalore Skydive Emote 1 ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.940] Script(S):-- DEV NAME: character_bangalore Skydive Emote 2 ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.940] Script(S):-- DEV NAME: character_bangalore Skydive Emote 3 ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.941] Script(S):-- DEV NAME: character_bangalore Skydive Emote 4 ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.941] Script(S):-- DEV NAME: character_bangalore Skydive Emote 5 ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.941] Script(S):-- DEV NAME: character_bangalore Skydive Emote 6 ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.941] Script(S):-- DEV NAME: character_bangalore Skydive Emote 7 ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.942] Script(S):-- DEV NAME: character_bangalore GCard Frame     ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_bangalore_common_01:SAID01525291315~~
+
+[32.942] Script(S):-- DEV NAME: character_bangalore GCard Stance    ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_bangalore_common_01:SAID00509086852~~
+
+[32.942] Script(S):-- DEV NAME: character_bangalore GCard Badge 0   ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.942] Script(S):-- DEV NAME: character_bangalore GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.943] Script(S):-- DEV NAME: character_bangalore GCard Badge 1   ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.943] Script(S):-- DEV NAME: character_bangalore GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.943] Script(S):-- DEV NAME: character_bangalore GCard Badge 2   ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.943] Script(S):-- DEV NAME: character_bangalore GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.944] Script(S):-- DEV NAME: character_bangalore GCard Tracker 0 ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_bangalore_kills:SAID01814522143~~
+
+[32.944] Script(S):-- DEV NAME: character_bangalore GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.944] Script(S):-- DEV NAME: character_bangalore GCard Tracker 1 ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.944] Script(S):-- DEV NAME: character_bangalore GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.945] Script(S):-- DEV NAME: character_bangalore GCard Tracker 2 ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.945] Script(S):-- DEV NAME: character_bangalore GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.945] Script(S):-- DEV NAME: character_bangalore Melee Skin      ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[32.945] Script(S):-- DEV NAME: character_bloodhound Skin           ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_bloodhound_classic:SAID00845551255~~
+
+[32.946] Script(S):-- DEV NAME: character_bloodhound Execution      ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_bloodhound_default:SAID00384197280~~
+
+[32.946] Script(S):-- DEV NAME: character_bloodhound Intro Quip     ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.946] Script(S):-- DEV NAME: character_bloodhound Kill Quip      ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.946] Script(S):-- DEV NAME: character_bloodhound Quip 0         ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.947] Script(S):-- DEV NAME: character_bloodhound Quip 1         ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.949] Script(S):-- DEV NAME: character_bloodhound Quip 2         ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.949] Script(S):-- DEV NAME: character_bloodhound Quip 3         ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.949] Script(S):-- DEV NAME: character_bloodhound Quip 4         ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.950] Script(S):-- DEV NAME: character_bloodhound Quip 5         ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.950] Script(S):-- DEV NAME: character_bloodhound Quip 6         ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.950] Script(S):-- DEV NAME: character_bloodhound Quip 7         ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.950] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 0 ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.951] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 1 ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.951] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 2 ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.951] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 3 ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.951] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 4 ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.952] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 5 ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.952] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 6 ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.952] Script(S):-- DEV NAME: character_bloodhound Skydive Emote 7 ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.952] Script(S):-- DEV NAME: character_bloodhound GCard Frame    ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_bloodhound_common_01:SAID02057058469~~
+
+[32.953] Script(S):-- DEV NAME: character_bloodhound GCard Stance   ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_bloodhound_common_01:SAID02130577181~~
+
+[32.953] Script(S):-- DEV NAME: character_bloodhound GCard Badge 0  ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.953] Script(S):-- DEV NAME: character_bloodhound GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.953] Script(S):-- DEV NAME: character_bloodhound GCard Badge 1  ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.954] Script(S):-- DEV NAME: character_bloodhound GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.954] Script(S):-- DEV NAME: character_bloodhound GCard Badge 2  ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.954] Script(S):-- DEV NAME: character_bloodhound GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.954] Script(S):-- DEV NAME: character_bloodhound GCard Tracker 0 ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_bloodhound_kills:SAID01049917798~~
+
+[32.955] Script(S):-- DEV NAME: character_bloodhound GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.955] Script(S):-- DEV NAME: character_bloodhound GCard Tracker 1 ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.955] Script(S):-- DEV NAME: character_bloodhound GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.955] Script(S):-- DEV NAME: character_bloodhound GCard Tracker 2 ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.956] Script(S):-- DEV NAME: character_bloodhound GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.956] Script(S):-- DEV NAME: character_bloodhound Melee Skin     ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[32.956] Script(S):-- DEV NAME: character_caustic Skin              ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_caustic_classic:SAID01798425389~~
+
+[32.956] Script(S):-- DEV NAME: character_caustic Execution         ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_caustic_default:SAID01767283626~~
+
+[32.956] Script(S):-- DEV NAME: character_caustic Intro Quip        ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.957] Script(S):-- DEV NAME: character_caustic Kill Quip         ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.957] Script(S):-- DEV NAME: character_caustic Quip 0            ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.957] Script(S):-- DEV NAME: character_caustic Quip 1            ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.957] Script(S):-- DEV NAME: character_caustic Quip 2            ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.958] Script(S):-- DEV NAME: character_caustic Quip 3            ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.958] Script(S):-- DEV NAME: character_caustic Quip 4            ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.958] Script(S):-- DEV NAME: character_caustic Quip 5            ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.958] Script(S):-- DEV NAME: character_caustic Quip 6            ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.959] Script(S):-- DEV NAME: character_caustic Quip 7            ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.959] Script(S):-- DEV NAME: character_caustic Skydive Emote 0   ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.959] Script(S):-- DEV NAME: character_caustic Skydive Emote 1   ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.959] Script(S):-- DEV NAME: character_caustic Skydive Emote 2   ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.960] Script(S):-- DEV NAME: character_caustic Skydive Emote 3   ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.960] Script(S):-- DEV NAME: character_caustic Skydive Emote 4   ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.960] Script(S):-- DEV NAME: character_caustic Skydive Emote 5   ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.960] Script(S):-- DEV NAME: character_caustic Skydive Emote 6   ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.960] Script(S):-- DEV NAME: character_caustic Skydive Emote 7   ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.961] Script(S):-- DEV NAME: character_caustic GCard Frame       ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_caustic_common_01:SAID01264727822~~
+
+[32.961] Script(S):-- DEV NAME: character_caustic GCard Stance      ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_caustic_common_01:SAID01497492505~~
+
+[32.961] Script(S):-- DEV NAME: character_caustic GCard Badge 0     ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.961] Script(S):-- DEV NAME: character_caustic GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.962] Script(S):-- DEV NAME: character_caustic GCard Badge 1     ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.962] Script(S):-- DEV NAME: character_caustic GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.962] Script(S):-- DEV NAME: character_caustic GCard Badge 2     ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.962] Script(S):-- DEV NAME: character_caustic GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.963] Script(S):-- DEV NAME: character_caustic GCard Tracker 0   ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_caustic_kills:SAID00015753331~~
+
+[32.964] Script(S):-- DEV NAME: character_caustic GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.964] Script(S):-- DEV NAME: character_caustic GCard Tracker 1   ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.964] Script(S):-- DEV NAME: character_caustic GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.965] Script(S):-- DEV NAME: character_caustic GCard Tracker 2   ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.965] Script(S):-- DEV NAME: character_caustic GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.965] Script(S):-- DEV NAME: character_caustic Melee Skin        ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[32.965] Script(S):-- DEV NAME: character_gibraltar Skin            ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_gibraltar_classic:SAID00020349656~~
+
+[32.966] Script(S):-- DEV NAME: character_gibraltar Execution       ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_gibraltar_default:SAID01880036982~~
+
+[32.966] Script(S):-- DEV NAME: character_gibraltar Intro Quip      ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.966] Script(S):-- DEV NAME: character_gibraltar Kill Quip       ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.966] Script(S):-- DEV NAME: character_gibraltar Quip 0          ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.967] Script(S):-- DEV NAME: character_gibraltar Quip 1          ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.967] Script(S):-- DEV NAME: character_gibraltar Quip 2          ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.967] Script(S):-- DEV NAME: character_gibraltar Quip 3          ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.967] Script(S):-- DEV NAME: character_gibraltar Quip 4          ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.968] Script(S):-- DEV NAME: character_gibraltar Quip 5          ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.968] Script(S):-- DEV NAME: character_gibraltar Quip 6          ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.968] Script(S):-- DEV NAME: character_gibraltar Quip 7          ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.968] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 0 ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.969] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 1 ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.969] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 2 ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.969] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 3 ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.969] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 4 ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.970] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 5 ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.970] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 6 ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.970] Script(S):-- DEV NAME: character_gibraltar Skydive Emote 7 ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.971] Script(S):-- DEV NAME: character_gibraltar GCard Frame     ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_gibraltar_common_01:SAID00301427815~~
+
+[32.971] Script(S):-- DEV NAME: character_gibraltar GCard Stance    ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_gibraltar_common_01:SAID01330693322~~
+
+[32.971] Script(S):-- DEV NAME: character_gibraltar GCard Badge 0   ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.971] Script(S):-- DEV NAME: character_gibraltar GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.972] Script(S):-- DEV NAME: character_gibraltar GCard Badge 1   ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.972] Script(S):-- DEV NAME: character_gibraltar GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.972] Script(S):-- DEV NAME: character_gibraltar GCard Badge 2   ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.973] Script(S):-- DEV NAME: character_gibraltar GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.973] Script(S):-- DEV NAME: character_gibraltar GCard Tracker 0 ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_gibraltar_kills:SAID00345008354~~
+
+[32.973] Script(S):-- DEV NAME: character_gibraltar GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.973] Script(S):-- DEV NAME: character_gibraltar GCard Tracker 1 ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.974] Script(S):-- DEV NAME: character_gibraltar GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.974] Script(S):-- DEV NAME: character_gibraltar GCard Tracker 2 ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.974] Script(S):-- DEV NAME: character_gibraltar GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.974] Script(S):-- DEV NAME: character_gibraltar Melee Skin      ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[32.975] Script(S):-- DEV NAME: character_lifeline Skin             ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_lifeline_classic:SAID00493570024~~
+
+[32.975] Script(S):-- DEV NAME: character_lifeline Execution        ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_lifeline_default:SAID00157821695~~
+
+[32.975] Script(S):-- DEV NAME: character_lifeline Intro Quip       ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.976] Script(S):-- DEV NAME: character_lifeline Kill Quip        ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.976] Script(S):-- DEV NAME: character_lifeline Quip 0           ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.976] Script(S):-- DEV NAME: character_lifeline Quip 1           ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.976] Script(S):-- DEV NAME: character_lifeline Quip 2           ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.977] Script(S):-- DEV NAME: character_lifeline Quip 3           ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.977] Script(S):-- DEV NAME: character_lifeline Quip 4           ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.978] Script(S):-- DEV NAME: character_lifeline Quip 5           ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.983] Script(S):-- DEV NAME: character_lifeline Quip 6           ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.983] Script(S):-- DEV NAME: character_lifeline Quip 7           ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.984] Script(S):-- DEV NAME: character_lifeline Skydive Emote 0  ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.984] Script(S):-- DEV NAME: character_lifeline Skydive Emote 1  ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.984] Script(S):-- DEV NAME: character_lifeline Skydive Emote 2  ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.985] Script(S):-- DEV NAME: character_lifeline Skydive Emote 3  ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.985] Script(S):-- DEV NAME: character_lifeline Skydive Emote 4  ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.985] Script(S):-- DEV NAME: character_lifeline Skydive Emote 5  ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.985] Script(S):-- DEV NAME: character_lifeline Skydive Emote 6  ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.986] Script(S):-- DEV NAME: character_lifeline Skydive Emote 7  ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.986] Script(S):-- DEV NAME: character_lifeline GCard Frame      ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_lifeline_common_01:SAID00566328574~~
+
+[32.986] Script(S):-- DEV NAME: character_lifeline GCard Stance     ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_lifeline_common_01:SAID00941740319~~
+
+[32.986] Script(S):-- DEV NAME: character_lifeline GCard Badge 0    ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.987] Script(S):-- DEV NAME: character_lifeline GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.987] Script(S):-- DEV NAME: character_lifeline GCard Badge 1    ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.987] Script(S):-- DEV NAME: character_lifeline GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.988] Script(S):-- DEV NAME: character_lifeline GCard Badge 2    ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.988] Script(S):-- DEV NAME: character_lifeline GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.988] Script(S):-- DEV NAME: character_lifeline GCard Tracker 0  ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_lifeline_kills:SAID01509839340~~
+
+[32.988] Script(S):-- DEV NAME: character_lifeline GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.989] Script(S):-- DEV NAME: character_lifeline GCard Tracker 1  ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.989] Script(S):-- DEV NAME: character_lifeline GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.989] Script(S):-- DEV NAME: character_lifeline GCard Tracker 2  ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[32.990] Script(S):-- DEV NAME: character_lifeline GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.990] Script(S):-- DEV NAME: character_lifeline Melee Skin       ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[32.990] Script(S):-- DEV NAME: character_mirage Skin               ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_mirage_classic:SAID00951730639~~
+
+[32.990] Script(S):-- DEV NAME: character_mirage Execution          ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_mirage_default:SAID01739484474~~
+
+[32.991] Script(S):-- DEV NAME: character_mirage Intro Quip         ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.991] Script(S):-- DEV NAME: character_mirage Kill Quip          ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[32.991] Script(S):-- DEV NAME: character_mirage Quip 0             ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.992] Script(S):-- DEV NAME: character_mirage Quip 1             ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.992] Script(S):-- DEV NAME: character_mirage Quip 2             ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.992] Script(S):-- DEV NAME: character_mirage Quip 3             ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.992] Script(S):-- DEV NAME: character_mirage Quip 4             ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.994] Script(S):-- DEV NAME: character_mirage Quip 5             ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.994] Script(S):-- DEV NAME: character_mirage Quip 6             ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.994] Script(S):-- DEV NAME: character_mirage Quip 7             ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[32.995] Script(S):-- DEV NAME: character_mirage Skydive Emote 0    ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.995] Script(S):-- DEV NAME: character_mirage Skydive Emote 1    ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.995] Script(S):-- DEV NAME: character_mirage Skydive Emote 2    ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.995] Script(S):-- DEV NAME: character_mirage Skydive Emote 3    ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.996] Script(S):-- DEV NAME: character_mirage Skydive Emote 4    ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.996] Script(S):-- DEV NAME: character_mirage Skydive Emote 5    ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.996] Script(S):-- DEV NAME: character_mirage Skydive Emote 6    ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.996] Script(S):-- DEV NAME: character_mirage Skydive Emote 7    ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[32.997] Script(S):-- DEV NAME: character_mirage GCard Frame        ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_mirage_common_01:SAID00504770435~~
+
+[32.997] Script(S):-- DEV NAME: character_mirage GCard Stance       ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_mirage_common_01:SAID00298389936~~
+
+[32.997] Script(S):-- DEV NAME: character_mirage GCard Badge 0      ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[32.998] Script(S):-- DEV NAME: character_mirage GCard Badge0 Tier  ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.998] Script(S):-- DEV NAME: character_mirage GCard Badge 1      ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.998] Script(S):-- DEV NAME: character_mirage GCard Badge1 Tier  ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.998] Script(S):-- DEV NAME: character_mirage GCard Badge 2      ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[32.999] Script(S):-- DEV NAME: character_mirage GCard Badge2 Tier  ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[32.999] Script(S):-- DEV NAME: character_mirage GCard Tracker 0    ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_mirage_kills:SAID01730527550~~
+
+[32.999] Script(S):-- DEV NAME: character_mirage GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[32.999] Script(S):-- DEV NAME: character_mirage GCard Tracker 1    ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.000] Script(S):-- DEV NAME: character_mirage GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.000] Script(S):-- DEV NAME: character_mirage GCard Tracker 2    ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.000] Script(S):-- DEV NAME: character_mirage GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.000] Script(S):-- DEV NAME: character_mirage Melee Skin         ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.001] Script(S):-- DEV NAME: character_octane Skin               ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_octane_classic:SAID00639894721~~
+
+[33.001] Script(S):-- DEV NAME: character_octane Execution          ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_octane_default:SAID00938314497~~
+
+[33.001] Script(S):-- DEV NAME: character_octane Intro Quip         ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.002] Script(S):-- DEV NAME: character_octane Kill Quip          ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[33.002] Script(S):-- DEV NAME: character_octane Quip 0             ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.002] Script(S):-- DEV NAME: character_octane Quip 1             ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.003] Script(S):-- DEV NAME: character_octane Quip 2             ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.003] Script(S):-- DEV NAME: character_octane Quip 3             ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.003] Script(S):-- DEV NAME: character_octane Quip 4             ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.003] Script(S):-- DEV NAME: character_octane Quip 5             ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.004] Script(S):-- DEV NAME: character_octane Quip 6             ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.004] Script(S):-- DEV NAME: character_octane Quip 7             ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.004] Script(S):-- DEV NAME: character_octane Skydive Emote 0    ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.004] Script(S):-- DEV NAME: character_octane Skydive Emote 1    ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.005] Script(S):-- DEV NAME: character_octane Skydive Emote 2    ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.005] Script(S):-- DEV NAME: character_octane Skydive Emote 3    ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.005] Script(S):-- DEV NAME: character_octane Skydive Emote 4    ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.005] Script(S):-- DEV NAME: character_octane Skydive Emote 5    ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.006] Script(S):-- DEV NAME: character_octane Skydive Emote 6    ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.006] Script(S):-- DEV NAME: character_octane Skydive Emote 7    ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.006] Script(S):-- DEV NAME: character_octane GCard Frame        ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_octane_common_01:SAID02071798384~~
+
+[33.006] Script(S):-- DEV NAME: character_octane GCard Stance       ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_octane_common_01:SAID01328104538~~
+
+[33.007] Script(S):-- DEV NAME: character_octane GCard Badge 0      ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[33.007] Script(S):-- DEV NAME: character_octane GCard Badge0 Tier  ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.007] Script(S):-- DEV NAME: character_octane GCard Badge 1      ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.007] Script(S):-- DEV NAME: character_octane GCard Badge1 Tier  ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.008] Script(S):-- DEV NAME: character_octane GCard Badge 2      ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.008] Script(S):-- DEV NAME: character_octane GCard Badge2 Tier  ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.008] Script(S):-- DEV NAME: character_octane GCard Tracker 0    ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_octane_kills:SAID00303788636~~
+
+[33.008] Script(S):-- DEV NAME: character_octane GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.010] Script(S):-- DEV NAME: character_octane GCard Tracker 1    ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.010] Script(S):-- DEV NAME: character_octane GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.010] Script(S):-- DEV NAME: character_octane GCard Tracker 2    ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.010] Script(S):-- DEV NAME: character_octane GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.011] Script(S):-- DEV NAME: character_octane Melee Skin         ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.011] Script(S):-- DEV NAME: character_pathfinder Skin           ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_pathfinder_classic:SAID00445771024~~
+
+[33.011] Script(S):-- DEV NAME: character_pathfinder Execution      ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_pathfinder_default:SAID01551060009~~
+
+[33.011] Script(S):-- DEV NAME: character_pathfinder Intro Quip     ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.012] Script(S):-- DEV NAME: character_pathfinder Kill Quip      ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[33.012] Script(S):-- DEV NAME: character_pathfinder Quip 0         ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.012] Script(S):-- DEV NAME: character_pathfinder Quip 1         ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.012] Script(S):-- DEV NAME: character_pathfinder Quip 2         ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.013] Script(S):-- DEV NAME: character_pathfinder Quip 3         ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.013] Script(S):-- DEV NAME: character_pathfinder Quip 4         ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.013] Script(S):-- DEV NAME: character_pathfinder Quip 5         ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.014] Script(S):-- DEV NAME: character_pathfinder Quip 6         ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.014] Script(S):-- DEV NAME: character_pathfinder Quip 7         ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.014] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 0 ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.014] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 1 ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.015] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 2 ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.015] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 3 ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.015] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 4 ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.015] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 5 ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.016] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 6 ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.016] Script(S):-- DEV NAME: character_pathfinder Skydive Emote 7 ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.016] Script(S):-- DEV NAME: character_pathfinder GCard Frame    ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_pathfinder_common_01:SAID01160920630~~
+
+[33.016] Script(S):-- DEV NAME: character_pathfinder GCard Stance   ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_pathfinder_common_01:SAID01955195764~~
+
+[33.017] Script(S):-- DEV NAME: character_pathfinder GCard Badge 0  ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[33.017] Script(S):-- DEV NAME: character_pathfinder GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.017] Script(S):-- DEV NAME: character_pathfinder GCard Badge 1  ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.018] Script(S):-- DEV NAME: character_pathfinder GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.018] Script(S):-- DEV NAME: character_pathfinder GCard Badge 2  ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.018] Script(S):-- DEV NAME: character_pathfinder GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.018] Script(S):-- DEV NAME: character_pathfinder GCard Tracker 0 ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_pathfinder_kills:SAID00196161681~~
+
+[33.019] Script(S):-- DEV NAME: character_pathfinder GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.019] Script(S):-- DEV NAME: character_pathfinder GCard Tracker 1 ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.020] Script(S):-- DEV NAME: character_pathfinder GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.020] Script(S):-- DEV NAME: character_pathfinder GCard Tracker 2 ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.020] Script(S):-- DEV NAME: character_pathfinder GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.020] Script(S):-- DEV NAME: character_pathfinder Melee Skin     ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.021] Script(S):-- DEV NAME: character_wraith Skin               ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_wraith_classic:SAID00275110190~~
+
+[33.021] Script(S):-- DEV NAME: character_wraith Execution          ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_wraith_default:SAID01796346770~~
+
+[33.021] Script(S):-- DEV NAME: character_wraith Intro Quip         ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.021] Script(S):-- DEV NAME: character_wraith Kill Quip          ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[33.022] Script(S):-- DEV NAME: character_wraith Quip 0             ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.022] Script(S):-- DEV NAME: character_wraith Quip 1             ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.022] Script(S):-- DEV NAME: character_wraith Quip 2             ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.022] Script(S):-- DEV NAME: character_wraith Quip 3             ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.023] Script(S):-- DEV NAME: character_wraith Quip 4             ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.023] Script(S):-- DEV NAME: character_wraith Quip 5             ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.023] Script(S):-- DEV NAME: character_wraith Quip 6             ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.023] Script(S):-- DEV NAME: character_wraith Quip 7             ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.024] Script(S):-- DEV NAME: character_wraith Skydive Emote 0    ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.024] Script(S):-- DEV NAME: character_wraith Skydive Emote 1    ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.024] Script(S):-- DEV NAME: character_wraith Skydive Emote 2    ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.024] Script(S):-- DEV NAME: character_wraith Skydive Emote 3    ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.024] Script(S):-- DEV NAME: character_wraith Skydive Emote 4    ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.026] Script(S):-- DEV NAME: character_wraith Skydive Emote 5    ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.026] Script(S):-- DEV NAME: character_wraith Skydive Emote 6    ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.026] Script(S):-- DEV NAME: character_wraith Skydive Emote 7    ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.026] Script(S):-- DEV NAME: character_wraith GCard Frame        ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_wraith_common_01:SAID00890414314~~
+
+[33.027] Script(S):-- DEV NAME: character_wraith GCard Stance       ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_wraith_common_01:SAID01754914733~~
+
+[33.027] Script(S):-- DEV NAME: character_wraith GCard Badge 0      ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[33.027] Script(S):-- DEV NAME: character_wraith GCard Badge0 Tier  ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.027] Script(S):-- DEV NAME: character_wraith GCard Badge 1      ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.028] Script(S):-- DEV NAME: character_wraith GCard Badge1 Tier  ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.028] Script(S):-- DEV NAME: character_wraith GCard Badge 2      ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.028] Script(S):-- DEV NAME: character_wraith GCard Badge2 Tier  ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.028] Script(S):-- DEV NAME: character_wraith GCard Tracker 0    ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_wraith_kills:SAID01618935778~~
+
+[33.029] Script(S):-- DEV NAME: character_wraith GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.029] Script(S):-- DEV NAME: character_wraith GCard Tracker 1    ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.029] Script(S):-- DEV NAME: character_wraith GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.029] Script(S):-- DEV NAME: character_wraith GCard Tracker 2    ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.029] Script(S):-- DEV NAME: character_wraith GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.030] Script(S):-- DEV NAME: character_wraith Melee Skin         ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.030] Script(S):-- DEV NAME: character_wattson Skin              ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_wattson_classic:SAID01592455344~~
+
+[33.030] Script(S):-- DEV NAME: character_wattson Execution         ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_wattson_default:SAID00768397059~~
+
+[33.030] Script(S):-- DEV NAME: character_wattson Intro Quip        ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.031] Script(S):-- DEV NAME: character_wattson Kill Quip         ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[33.031] Script(S):-- DEV NAME: character_wattson Quip 0            ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.031] Script(S):-- DEV NAME: character_wattson Quip 1            ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.031] Script(S):-- DEV NAME: character_wattson Quip 2            ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.032] Script(S):-- DEV NAME: character_wattson Quip 3            ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.032] Script(S):-- DEV NAME: character_wattson Quip 4            ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.032] Script(S):-- DEV NAME: character_wattson Quip 5            ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.032] Script(S):-- DEV NAME: character_wattson Quip 6            ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.033] Script(S):-- DEV NAME: character_wattson Quip 7            ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.033] Script(S):-- DEV NAME: character_wattson Skydive Emote 0   ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.033] Script(S):-- DEV NAME: character_wattson Skydive Emote 1   ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.033] Script(S):-- DEV NAME: character_wattson Skydive Emote 2   ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.034] Script(S):-- DEV NAME: character_wattson Skydive Emote 3   ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.034] Script(S):-- DEV NAME: character_wattson Skydive Emote 4   ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.034] Script(S):-- DEV NAME: character_wattson Skydive Emote 5   ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.034] Script(S):-- DEV NAME: character_wattson Skydive Emote 6   ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.035] Script(S):-- DEV NAME: character_wattson Skydive Emote 7   ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.035] Script(S):-- DEV NAME: character_wattson GCard Frame       ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_wattson_common_01:SAID00693214584~~
+
+[33.035] Script(S):-- DEV NAME: character_wattson GCard Stance      ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_wattson_common_01:SAID00051955487~~
+
+[33.035] Script(S):-- DEV NAME: character_wattson GCard Badge 0     ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[33.036] Script(S):-- DEV NAME: character_wattson GCard Badge0 Tier ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.036] Script(S):-- DEV NAME: character_wattson GCard Badge 1     ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.036] Script(S):-- DEV NAME: character_wattson GCard Badge1 Tier ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.036] Script(S):-- DEV NAME: character_wattson GCard Badge 2     ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.036] Script(S):-- DEV NAME: character_wattson GCard Badge2 Tier ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.037] Script(S):-- DEV NAME: character_wattson GCard Tracker 0   ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_wattson_kills:SAID01449585426~~
+
+[33.037] Script(S):-- DEV NAME: character_wattson GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.037] Script(S):-- DEV NAME: character_wattson GCard Tracker 1   ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.037] Script(S):-- DEV NAME: character_wattson GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.038] Script(S):-- DEV NAME: character_wattson GCard Tracker 2   ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.038] Script(S):-- DEV NAME: character_wattson GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.038] Script(S):-- DEV NAME: character_wattson Melee Skin        ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.038] Script(S):-- DEV NAME: character_crypto Skin               ENTRY ID: skin                                     DESCRIBE LOADOUT: ~~character_skin:character_skin_crypto_classic:SAID00043033680~~
+
+[33.039] Script(S):-- DEV NAME: character_crypto Execution          ENTRY ID: execution                                DESCRIBE LOADOUT: ~~character_execution:character_execution_crypto_default:SAID00757839206~~
+
+[33.039] Script(S):-- DEV NAME: character_crypto Intro Quip         ENTRY ID: intro_quip                               DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.039] Script(S):-- DEV NAME: character_crypto Kill Quip          ENTRY ID: kill_quip                                DESCRIBE LOADOUT: ~~gladiator_card_kill_quip:character_kill_quip__empty:SAID00461989940~~
+
+[33.040] Script(S):-- DEV NAME: character_crypto Quip 0             ENTRY ID: quips_0                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.040] Script(S):-- DEV NAME: character_crypto Quip 1             ENTRY ID: quips_1                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.041] Script(S):-- DEV NAME: character_crypto Quip 2             ENTRY ID: quips_2                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.041] Script(S):-- DEV NAME: character_crypto Quip 3             ENTRY ID: quips_3                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.041] Script(S):-- DEV NAME: character_crypto Quip 4             ENTRY ID: quips_4                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.041] Script(S):-- DEV NAME: character_crypto Quip 5             ENTRY ID: quips_5                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.042] Script(S):-- DEV NAME: character_crypto Quip 6             ENTRY ID: quips_6                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.042] Script(S):-- DEV NAME: character_crypto Quip 7             ENTRY ID: quips_7                                  DESCRIBE LOADOUT: ~~gladiator_card_intro_quip:character_intro_quip__empty:SAID00913787992~~
+
+[33.042] Script(S):-- DEV NAME: character_crypto Skydive Emote 0    ENTRY ID: skydive_emote_0                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.042] Script(S):-- DEV NAME: character_crypto Skydive Emote 1    ENTRY ID: skydive_emote_1                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.043] Script(S):-- DEV NAME: character_crypto Skydive Emote 2    ENTRY ID: skydive_emote_2                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.043] Script(S):-- DEV NAME: character_crypto Skydive Emote 3    ENTRY ID: skydive_emote_3                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.043] Script(S):-- DEV NAME: character_crypto Skydive Emote 4    ENTRY ID: skydive_emote_4                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.043] Script(S):-- DEV NAME: character_crypto Skydive Emote 5    ENTRY ID: skydive_emote_5                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.043] Script(S):-- DEV NAME: character_crypto Skydive Emote 6    ENTRY ID: skydive_emote_6                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.044] Script(S):-- DEV NAME: character_crypto Skydive Emote 7    ENTRY ID: skydive_emote_7                          DESCRIBE LOADOUT: ~~skydive_emote:skydive_emote__empty:SAID01249507282~~        
+
+[33.044] Script(S):-- DEV NAME: character_crypto GCard Frame        ENTRY ID: gcard_frame                              DESCRIBE LOADOUT: ~~gladiator_card_frame:gcard_frame_crypto_common_01:SAID01917095873~~
+
+[33.044] Script(S):-- DEV NAME: character_crypto GCard Stance       ENTRY ID: gcard_stance                             DESCRIBE LOADOUT: ~~gladiator_card_stance:gcard_stance_crypto_common_01:SAID00428709830~~
+
+[33.044] Script(S):-- DEV NAME: character_crypto GCard Badge 0      ENTRY ID: gcard_badge_0                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge_account_account_level:SAID01774065557~~
+
+[33.045] Script(S):-- DEV NAME: character_crypto GCard Badge0 Tier  ENTRY ID: gcard_badge_0_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.045] Script(S):-- DEV NAME: character_crypto GCard Badge 1      ENTRY ID: gcard_badge_1                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.045] Script(S):-- DEV NAME: character_crypto GCard Badge1 Tier  ENTRY ID: gcard_badge_1_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.045] Script(S):-- DEV NAME: character_crypto GCard Badge 2      ENTRY ID: gcard_badge_2                            DESCRIBE LOADOUT: ~~gladiator_card_badge:gcard_badge__empty:SAID01488777442~~   
+
+[33.046] Script(S):-- DEV NAME: character_crypto GCard Badge2 Tier  ENTRY ID: gcard_badge_2_tier                       DESCRIBE LOADOUT: 0                                                             
+
+[33.049] Script(S):-- DEV NAME: character_crypto GCard Tracker 0    ENTRY ID: gcard_tracker_0                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker_crypto_kills:SAID01154431005~~
+
+[33.049] Script(S):-- DEV NAME: character_crypto GCard Tracker0 Value ENTRY ID: gcard_tracker_0_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.050] Script(S):-- DEV NAME: character_crypto GCard Tracker 1    ENTRY ID: gcard_tracker_1                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.050] Script(S):-- DEV NAME: character_crypto GCard Tracker1 Value ENTRY ID: gcard_tracker_1_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.050] Script(S):-- DEV NAME: character_crypto GCard Tracker 2    ENTRY ID: gcard_tracker_2                          DESCRIBE LOADOUT: ~~gladiator_card_stat_tracker:gcard_tracker__empty:SAID01905735931~~
+
+[33.050] Script(S):-- DEV NAME: character_crypto GCard Tracker2 Value ENTRY ID: gcard_tracker_2_value                    DESCRIBE LOADOUT: 0                                                             
+
+[33.051] Script(S):-- DEV NAME: character_crypto Melee Skin         ENTRY ID: meleeskin                                DESCRIBE LOADOUT: ~~melee_skin:melee_skin_default:SAID00519356259~~             
+
+[33.051] Script(S):-- DEV NAME: SkydiveTrail                        ENTRY ID: skydive_trail                            DESCRIBE LOADOUT: ~~skydive_trail:skydive_trail_default:SAID02022307050~~       
+
+[33.051] Script(S):-- DEV NAME: loot_main_weapon_alternator Skin    ENTRY ID: weapon_skin_for_SAID01475792313          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_alternator_factory_issue:SAID01176011297~~
+
+[33.052] Script(S):-- DEV NAME: loot_main_weapon_alternator Charm   ENTRY ID: weapon_charm_for_SAID01475792313         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.052] Script(S):-- DEV NAME: loot_main_weapon_autopistol Skin    ENTRY ID: weapon_skin_for_SAID00686444189          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_autopistol_factory_issue:SAID01309064329~~
+
+[33.052] Script(S):-- DEV NAME: loot_main_weapon_autopistol Charm   ENTRY ID: weapon_charm_for_SAID00686444189         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.052] Script(S):-- DEV NAME: loot_main_weapon_devotion Skin      ENTRY ID: weapon_skin_for_SAID00352110003          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_devotion_factory_issue:SAID00917949764~~
+
+[33.053] Script(S):-- DEV NAME: loot_main_weapon_devotion Charm     ENTRY ID: weapon_charm_for_SAID00352110003         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.053] Script(S):-- DEV NAME: loot_main_weapon_dmr Skin           ENTRY ID: weapon_skin_for_SAID00908539842          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_dmr_factory_issue:SAID01394354579~~ 
+
+[33.053] Script(S):-- DEV NAME: loot_main_weapon_dmr Charm          ENTRY ID: weapon_charm_for_SAID00908539842         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.054] Script(S):-- DEV NAME: loot_main_weapon_eva Skin           ENTRY ID: weapon_skin_for_SAID01928357643          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_eva_factory_issue:SAID01244252333~~ 
+
+[33.054] Script(S):-- DEV NAME: loot_main_weapon_eva Charm          ENTRY ID: weapon_charm_for_SAID01928357643         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.054] Script(S):-- DEV NAME: loot_main_weapon_flatline Skin      ENTRY ID: weapon_skin_for_SAID01870377113          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_flatline_factory_issue:SAID00510665653~~
+
+[33.054] Script(S):-- DEV NAME: loot_main_weapon_flatline Charm     ENTRY ID: weapon_charm_for_SAID01870377113         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.055] Script(S):-- DEV NAME: loot_main_weapon_g7 Skin            ENTRY ID: weapon_skin_for_SAID00909655776          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_g7_factory_issue:SAID00785477228~~  
+
+[33.056] Script(S):-- DEV NAME: loot_main_weapon_g7 Charm           ENTRY ID: weapon_charm_for_SAID00909655776         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.056] Script(S):-- DEV NAME: loot_main_weapon_hemlok Skin        ENTRY ID: weapon_skin_for_SAID01082669812          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_hemlok_factory_issue:SAID00589944515~~
+
+[33.056] Script(S):-- DEV NAME: loot_main_weapon_hemlok Charm       ENTRY ID: weapon_charm_for_SAID01082669812         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.056] Script(S):-- DEV NAME: loot_main_weapon_kraber Skin        ENTRY ID: weapon_skin_for_SAID01920744447          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_kraber_factory_issue:SAID01287266426~~
+
+[33.057] Script(S):-- DEV NAME: loot_main_weapon_kraber Charm       ENTRY ID: weapon_charm_for_SAID01920744447         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.057] Script(S):-- DEV NAME: loot_main_weapon_mastiff Skin       ENTRY ID: weapon_skin_for_SAID00418361060          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_mastiff_factory_issue:SAID00607777805~~
+
+[33.057] Script(S):-- DEV NAME: loot_main_weapon_mastiff Charm      ENTRY ID: weapon_charm_for_SAID00418361060         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.057] Script(S):-- DEV NAME: loot_main_weapon_mozambique Skin    ENTRY ID: weapon_skin_for_SAID00945439943          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_mozambique_factory_issue:SAID01690371236~~
+
+[33.058] Script(S):-- DEV NAME: loot_main_weapon_mozambique Charm   ENTRY ID: weapon_charm_for_SAID00945439943         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.058] Script(S):-- DEV NAME: loot_main_weapon_pdw Skin           ENTRY ID: weapon_skin_for_SAID01496005473          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_pdw_factory_issue:SAID00435734821~~ 
+
+[33.058] Script(S):-- DEV NAME: loot_main_weapon_pdw Charm          ENTRY ID: weapon_charm_for_SAID01496005473         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.058] Script(S):-- DEV NAME: loot_main_weapon_peacekeeper Skin   ENTRY ID: weapon_skin_for_SAID01388774763          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_peacekeeper_factory_issue:SAID01076778013~~
+
+[33.059] Script(S):-- DEV NAME: loot_main_weapon_peacekeeper Charm  ENTRY ID: weapon_charm_for_SAID01388774763         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.059] Script(S):-- DEV NAME: loot_main_weapon_r97 Skin           ENTRY ID: weapon_skin_for_SAID00080404303          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_r97_factory_issue:SAID01033402722~~ 
+
+[33.059] Script(S):-- DEV NAME: loot_main_weapon_r97 Charm          ENTRY ID: weapon_charm_for_SAID00080404303         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.059] Script(S):-- DEV NAME: loot_main_weapon_r301 Skin          ENTRY ID: weapon_skin_for_SAID00048783537          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_r301_factory_issue:SAID00521874381~~
+
+[33.060] Script(S):-- DEV NAME: loot_main_weapon_r301 Charm         ENTRY ID: weapon_charm_for_SAID00048783537         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.060] Script(S):-- DEV NAME: loot_main_weapon_semipistol Skin    ENTRY ID: weapon_skin_for_SAID00970511567          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_semipistol_factory_issue:SAID00627338383~~
+
+[33.060] Script(S):-- DEV NAME: loot_main_weapon_semipistol Charm   ENTRY ID: weapon_charm_for_SAID00970511567         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.060] Script(S):-- DEV NAME: loot_main_weapon_spitfire Skin      ENTRY ID: weapon_skin_for_SAID01363034817          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_spitfire_factory_issue:SAID00155031543~~
+
+[33.061] Script(S):-- DEV NAME: loot_main_weapon_spitfire Charm     ENTRY ID: weapon_charm_for_SAID01363034817         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.061] Script(S):-- DEV NAME: loot_main_weapon_tripletake Skin    ENTRY ID: weapon_skin_for_SAID01603172346          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_tripletake_factory_issue:SAID00595243701~~
+
+[33.061] Script(S):-- DEV NAME: loot_main_weapon_tripletake Charm   ENTRY ID: weapon_charm_for_SAID01603172346         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.061] Script(S):-- DEV NAME: loot_main_weapon_wingman Skin       ENTRY ID: weapon_skin_for_SAID02091853053          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_wingman_factory_issue:SAID01127922158~~
+
+[33.062] Script(S):-- DEV NAME: loot_main_weapon_wingman Charm      ENTRY ID: weapon_charm_for_SAID02091853053         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.062] Script(S):-- DEV NAME: loot_main_weapon_energy_ar Skin     ENTRY ID: weapon_skin_for_SAID01820095990          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_energy_ar_factory_issue:SAID00430252333~~
+
+[33.062] Script(S):-- DEV NAME: loot_main_weapon_energy_ar Charm    ENTRY ID: weapon_charm_for_SAID01820095990         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.062] Script(S):-- DEV NAME: loot_main_weapon_lstar Skin         ENTRY ID: weapon_skin_for_SAID00194888968          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_lstar_factory_issue:SAID00466111245~~
+
+[33.063] Script(S):-- DEV NAME: loot_main_weapon_lstar Charm        ENTRY ID: weapon_charm_for_SAID00194888968         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.063] Script(S):-- DEV NAME: loot_main_weapon_chargerifle Skin   ENTRY ID: weapon_skin_for_SAID00107352658          DESCRIBE LOADOUT: ~~weapon_skin:weapon_skin_chargerifle_factory_issue:SAID00159900094~~
+
+[33.063] Script(S):-- DEV NAME: loot_main_weapon_chargerifle Charm  ENTRY ID: weapon_charm_for_SAID00107352658         DESCRIBE LOADOUT: ~~weapon_charm:weapon_charm_none:SAID00337086448~~            
+
+[33.063] Script(S):-- DEV NAME: Loadscreen                          ENTRY ID: loadscreen_selection                     DESCRIBE LOADOUT: ~~loadscreen:loadscreen_default:SAID00930642231~~             
+
+[33.064] Script(S):-- DEV NAME: Music Pack                          ENTRY ID: music_pack_selection                     DESCRIBE LOADOUT: ~~music_pack:musicpack_default:SAID02031636974~~              
+
