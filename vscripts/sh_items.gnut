@@ -574,6 +574,9 @@ ItemFlavor function GetItemFlavorByNetworkIndex_DEPRECATED( int index )
 {
 	Assert( IsValidItemFlavorNetworkIndex_DEPRECATED( index, eValidation.ASSERT ) )
 
+	if (index < 0)
+		index = 1
+
 	return fileLevel.itemFlavorList[ index - 1 ]
 }
 
