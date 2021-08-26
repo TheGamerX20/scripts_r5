@@ -365,11 +365,21 @@ void function SetupDefaultDevCommandsMP()
 	SetupDevMenu( "Prototypes", SetDevMenu_Prototypes )
 
 	SetupDevCommand( "Enable Cheats", "sv_cheats 1" )
+	SetupDevCommand( "Toggle Thirdperson", "ToggleThirdPerson" )
 
 	foreach ( DevCommand cmd in file.levelSpecificCommands )
 		SetupDevCommand( cmd.label, cmd.command )
 }
 
+#if SERVER
+bool function ClientCommand_tgx_thirdperson( entity commandPlayer, array<string> args )
+{
+	if(commandPlayer.IsThirdPersonShoulderModeOn())
+		commandPlayer.SetThirdPersonShoulderModeOff() 	
+	else
+		commandPlayer.SetThirdPersonShoulderModeOn()
+}
+#endif
 
 void function SetDevMenu_LevelCommands( var _ )
 {
