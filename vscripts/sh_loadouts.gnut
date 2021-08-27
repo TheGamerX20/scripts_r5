@@ -2197,6 +2197,14 @@ bool function ClientCommand_tgx_changeweaponskin( entity commandPlayer, array<st
 		// Apply Current Skin
  		CallItemFlavorLoadoutSlotDidChangeCallbacks( ToEHI(commandPlayer), Loadout_WeaponSkin( weaponFlavor ), weaponskinFlavor )
 
+ 		if ( WeaponSkin_DoesReactToKills( weaponskinFlavor ) )
+ 		{
+ 			entity weaponInSlot0 = commandPlayer.GetNormalWeapon( WEAPON_INVENTORY_SLOT_PRIMARY_0 )
+ 			//WeaponReactiveKillTracking_InitForWeapon (weaponInSlot0)
+ 			Remote_CallFunction_NonReplay( commandPlayer, "SCB_UpdatePlayerWeaponReactiveEffects", weaponInSlot0, eReactiveEffectUpdateType.KILL)
+ 			//Remote_CallFunction_NonReplay( commandPlayer, "ServerCallback_ApplyReactiveSkin", weaponskinGUID, ItemFlavor_GetGUID(weaponFlavor))
+ 		}
+
 		//SetItemFlavorLoadoutSlot(ToEHI(commandPlayer), Loadout_WeaponSkin( WeaponSkin_GetWeaponFlavor( weaponskinFlavor ) ), weaponskinFlavor)
 
 		//entity weaponInSlot0 = commandPlayer.GetNormalWeapon( WEAPON_INVENTORY_SLOT_PRIMARY_0 )

@@ -4,6 +4,7 @@ global function OnWeaponDeactivate_ReactiveKillEffects
 global function WeaponHasReactiveKillTrackingForCurrentSkin
 global function SCB_UpdatePlayerWeaponReactiveEffects
 global function WeaponReactiveKillEffects_ClearAllFX
+global function WeaponReactiveKillTracking_InitForWeapon
 
 #if SERVER
 // TODO: Recover server function
@@ -108,6 +109,8 @@ bool function WeaponHasReactiveKillTrackingForCurrentSkin( entity weapon )
 	if ( !WeaponSkin_DoesReactToKills( weaponSkin ) )
 		return false
 
+	print("TGX HAS TRUE BLAH")
+
 	return true
 }
 
@@ -146,8 +149,11 @@ void function UpdatePlayerWeaponReactiveEffects( entity weapon, int updateType )
 
 	ItemFlavor weaponSkin = GetItemFlavorByNetworkIndex_DEPRECATED( weapon.GetGrade() )
 
-	int numKills = WeaponReactiveKillTracking_GetKillsForPlayerWithWeapon( player, weapon )
+	int numKills = 10//WeaponReactiveKillTracking_GetKillsForPlayerWithWeapon( player, weapon )
 	int reactiveKillLevel = WeaponSkin_GetReactToKillsLevelIndexForKillCount( weaponSkin, numKills )
+
+	print("numKills TGX: " + numKills)
+	print("reactiveKillLevel TGX: " + reactiveKillLevel)
 
 	WeaponReactiveKillEffects_ClearPersistentFX( weapon )
 	WeaponReactiveKillEffects_StopPersistentSounds( weapon, weaponSkin)
