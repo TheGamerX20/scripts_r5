@@ -61,7 +61,6 @@ void function Reactive_OnPlayerKilled( entity victim, entity attacker, var damag
 	{
 		printt("Gotten a kill with a Reactive Weapon")
  		Remote_CallFunction_NonReplay( attacker, "SCB_UpdatePlayerWeaponReactiveEffects", activeWeapon, eReactiveEffectUpdateType.KILL)
-		UpdatePlayerWeaponReactiveEffects( activeWeapon, eReactiveEffectUpdateType.KILL )
 	}
 }
 #endif
