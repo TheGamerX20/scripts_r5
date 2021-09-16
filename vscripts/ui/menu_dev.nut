@@ -283,6 +283,9 @@ void function SetupDefaultDevCommandsMP()
 		SetupDevMenu( "Survival Helmets", SetDevMenu_SurvivalLoot, "helmet" )
 		SetupDevMenu( "Survival Armor", SetDevMenu_SurvivalLoot, "armor" )
 		SetupDevMenu( "Survival Backpack", SetDevMenu_SurvivalLoot, "backpack" )
+
+		SetupDevMenu( "Custom Survival Weapons", SetDevMenu_CustomLoot, "main_weapon")
+		SetupDevMenu( "Custom Survival Attachments", SetDevMenu_CustomLoot, "attachment")
 		#if(false)
 
 #endif

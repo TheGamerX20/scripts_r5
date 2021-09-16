@@ -144,11 +144,16 @@ void function LoadLootZonesForMap()
 	}
     
     if(file.lootZones.len() == 0)
+    {
+        FlagSet( "Survival_LootZonesLoaded" )
         return
+    }
     
     if ( !GetCurrentPlaylistVarBool( "ground_loot_enable", true ) || !GetCurrentPlaylistVarBool( "hot_zone_enable", true ) )
+    {
+        FlagSet( "Survival_LootZonesLoaded" )
         return
-    
+    }
     array<LootZone> hotZones
 
     lzEnts = GetEntArrayByClass_Expensive( "script_ref" )
@@ -168,7 +173,10 @@ void function LoadLootZonesForMap()
     }
     
     if(hotZones.len() == 0)
+    {
+        FlagSet( "Survival_LootZonesLoaded" )
         return
+    }
     
     //The hotzone
     LootZone hotZone = hotZones.getrandom()
@@ -1095,7 +1103,7 @@ void function EquipAttachments_Internal( entity player, entity weapon, string it
 		LootData weaponData = SURVIVAL_Loot_GetLootDataByRef( GetWeaponClassName( weapon ) )
 		LootData modData = SURVIVAL_Loot_GetLootDataByRef( item )
 
-		Remote_CallFunction_NonReplay( player, "ServerCallback_AttachedMod", weaponData.index, modData.index )
+		//Remote_CallFunction_NonReplay( player, "ServerCallback_AttachedMod", weaponData.index, modData.index )
 
 		mods.append( item )
 
